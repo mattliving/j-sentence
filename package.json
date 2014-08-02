@@ -1,0 +1,15 @@
+{
+  "name": "j-sentence",
+  "version": "0.0.1",
+  "dependencies": {
+    "lodash": "latest",
+    "q": "latest",
+    "jquery": "~2.1.1",
+    "jsdom": "latest",
+    "cheerio": "~0.17.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
