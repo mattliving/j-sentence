@@ -1,5 +1,6 @@
 var http = require("http");
 var https = require("https");
+var fs = require("fs");
 var Q = require("q");
 
 function get(url, options) {
@@ -28,22 +29,33 @@ function get(url, options) {
   return deferred.promise;
 }
 
+/* Courtesy of http://strongloop.com/strongblog/how-to-compose-node-js-promises-with-q/ */
 function mapSeries(arr, iterator) {
-  // create a empty promise to start our series (so we can use `then`)
+  // create an empty promise to start our series (so we can use `then`)
   var currentPromise = Q();
-  var promises = arr.map(function(el) {
+  var promises = arr.map(function(el, index) {
     return currentPromise = currentPromise.then(function() {
       // execute the next function after the previous has resolved successfully
-      return iterator(el);
+      return iterator(el, index);
     });
   });
   // group the results and return the group promise
   return Q.all(promises);
 }
 
+function readFromFile(file) {
+
+  var deferred = Q.defer();
+  Q.nfcall(fs.readFile, file).then(function(result) {
+    deferred.resolve(JSON.parse(result));
+  });
+  return deferred.promise;
+}
+
 var utils = {
   get: get,
-  mapSeries: mapSeries
+  mapSeries: mapSeries,
+  readFromFile: readFromFile
 };
 
 module.exports = utils;

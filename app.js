@@ -9,48 +9,74 @@ var wk = wkApiWrapper({
   apiKey: "57a8b351b5b361b8d83d65f02ef07def"
 });
 
-// wk.getKanji().done(function(kanjis) {
+function scraper() {
 
-//   var maps = createKanjiMaps(kanjis);
-//   console.log(maps);
-// });
+  utils.readFromFile("sentences.json").done(function(sentences) {
 
-getSentences(["高", "食"]).done(function(sentences) {
+    var alreadyStored = pluckCharacters(sentences);
 
-  // sentences.forEach(function(sentence) {
-  //   console.log(sentence);
-  // });
-  fs.writeFile("sentences.json", JSON.stringify(sentences, null, 4), function(err) {
-    if (err) console.error(err);
+    wk.getKanji().done(function(kanjis) {
+
+      var maps = createKanjiMaps(kanjis);
+      var diff = _.difference(_.keys(maps.kanjiToSrs), alreadyStored);
+
+      getSentences(diff).done(function(sentences) {
+
+        // Don't save sentences that are null
+        sentences = _.filter(sentences, function(sentence) { return !_.isNull(sentence); });
+        fs.writeFile("sentences.json", JSON.stringify(sentences, null, 4), function(err) {
+          if (err) {
+            console.error(err)
+            return;
+          }
+        });
+      });
+    });
   });
-});
+}
 
 // Scrape sentences from tangorin for each kanji in the list and return an array of promises
 function getSentences(kanjiList) {
 
-  var promises = utils.mapSeries(kanjiList, function(kanji) {
+  var promises = utils.mapSeries(kanjiList, function(kanji, index) {
+
+    var random = _.random(2, 10) * 1000;
 
     var deferred = Q.defer(),
         sentence = {};
-    sentence[kanji] = [];
 
-    utils.get("http://tangorin.com/examples/" + kanji).done(function(data) {
+    sentence["character"] = kanji;
+    sentence["sentences"] = [];
+
+    Q.delay(utils.get("http://tangorin.com/examples/" + kanji), random).done(function(data) {
 
       var $ = cheerio.load(data);
       $(".entry").each(function(entry) {
         var japanese = $(this).find(".ex-dt").text().replace(/\(/g, "[").replace(/\)/g, "]"),
             english = $(this).find(".ex-en").text();
 
-        sentence[kanji].push({jp: japanese, en: english});
+        sentence["sentences"].push({jp: japanese, en: english});
       });
 
+      console.log("Sent request to http://tangorin.com/examples/" + kanji + "\n");
+      console.log((index/kanjiList.length)*100 + "%");
+      console.log("Approximately " + ((kanjiList.length - index) * 6) + "s remaining.");
       deferred.resolve(sentence);
     });
 
     return deferred.promise;
+
   });
 
   return promises;
+}
+
+function pluckCharacters(collection) {
+  var arr = [];
+  if (collection) {
+    arr = _.pluck(collection, "character");
+  }
+  return arr;
 }
 
 function createKanjiMaps(kanjis) {
