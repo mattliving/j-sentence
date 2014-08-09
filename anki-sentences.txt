@@ -1,0 +1,854 @@
+氷;この氷はだいじょうぶかしら。;この氷[こおり]はだいじょうぶかしら。;ice;Will the ice bear?
+氷;水は氷になります。;水[みず]は氷[こおり]になります。;ice;The water turned to ice.
+氷;氷のうをください。;氷[こおり]のうをください。;ice;May I have an ice bag?
+明;ジェシーはチャールズの先見の明をほめた。;ジェシーはチャールズの先見[せんけん]の明[めい]をほめた。;bright;Jessie praised Charles for his foresight.
+明;ジェシーはチャールズの先見の明をほめたたえた。;ジェシーはチャールズの先見[せんけん]の明[めい]をほめたたえた。;bright;Jessie praised Charles for his foresight.
+君;ちょっとまて、君。;ちょっとまて、君[きみ]。;buddy;Hey you! Please wait.
+君;君、ここへきなさい。;君[きみ]、ここへきなさい。;buddy;You come here.
+君;君、わかってないね。;君[きみ]、わかってないね。;buddy;You don't understand.
+君;君、何時に出るの。;君[きみ]、何[なん]時[じ]に出[で]るの。;buddy;What time will you leave?
+君;君、少し丸くなったね。;君[きみ]、少[すこ]し丸[まる]くなったね。;buddy;You've filled out.
+君;ちょっと、君。;ちょっと、君[きみ]。;buddy;Hey, you.
+君;君はなんだ？;君[きみ]はなんだ？;buddy;What are you?
+君;君が走れ。;君[きみ]が走[はし]れ。;buddy;You run.
+楽;どうぞお楽に。;どうぞお楽[らく]に。;comfort, ease, pleasure;Make yourself comfortable.
+楽;楽になさってください。;楽[らく]になさってください。;comfort, ease, pleasure;At ease.
+楽;楽にしてね。;楽[らく]にしてね。;comfort, ease, pleasure;Make yourself at home.
+楽;どうか楽にしてください。;どうか楽[らく]にしてください。;comfort, ease, pleasure;Please make yourself at home.
+楽;お楽にしてください。;お楽[らく]にしてください。;comfort, ease, pleasure;Make yourself at home.
+楽;どうぞお楽にして下さい。;どうぞお楽[らく]にして下[くだ]さい。;comfort, ease, pleasure;Please make yourself comfortable.
+楽;どうぞ楽になって下さい。;どうぞ楽[らく]になって下[くだ]さい。;comfort, ease, pleasure;Please make yourself at home.
+楽;どうぞ楽になさって下さい。;どうぞ楽[らく]になさって下[くだ]さい。;comfort, ease, pleasure;Please make yourself at home.
+数;それはかなり大きな数だ。;それはかなり大[おお]きな数[かず]だ。;count, number, amount;It is quite a big number.
+間;ここしばらくの間。;ここしばらくの間[ま]。;interval, interval of time, time interval;For the time being.
+間;行と行との間をあける。;行[くだり]と行[くだり]との間[ま]をあける。;interval, interval of time, time interval;Leave a space between the lines.
+間;木立の間に家が見える。;木立[こだち]の間[ま]に家[いえ]が見[み]える。;interval, interval of time, time interval;I see a house among the trees.
+間;オイデイプスは長い間考えた。;オイデイプスは長[なが]い間[ま]考[かんが]えた。;interval, interval of time, time interval;Oedipus thought for a long while.
+間;できるあいだに人生を楽しみなさい。;できるあいだに人生[じんせい]を楽[たの]しみなさい。;interval, interval of time, time interval;Enjoy your life while you may.
+次;次の方どうぞ。;次[つぎ]の方[ほう]どうぞ。;next;Next person, please.
+次;リストは次のとおり。;リストは次[つぎ]のとおり。;next;The list is as follows.
+次;またこの次までね。;またこの次[つぎ]までね。;next;Until next time.
+次;次はきっとうまくいきますよ。;次[つぎ]はきっとうまくいきますよ。;next;Better luck next time.
+室;そのみすぼらしい車室は空いたままだった。;そのみすぼらしい車[くるま]室[しつ]は空[あ]いたままだった。;room;The shabby compartment remained vacant.
+千;一立方メートルは千リットルにあたる。;一[いち]立方メー[りっぽうめえ]トルは千[せん]リットルにあたる。;thousand;A cubic meter corresponds to 1000 liters.
+千;この本は三千円する。;この本[ほん]は三[さん]千[せん]円[えん]する。;thousand;This book costs 3000 yen.
+千;このホールには人が二千人入れる。;このホールには人[ひと]が二[に]千[せん]人[にん]入[い]れる。;thousand;This hall holds two thousand people.
+千;千人くらいの人がいた。;千[せん]人[にん]くらいの人[ひと]がいた。;thousand;There were about one thousand people.
+千;何千もの人々がそこにいた。;何[なん]千[せん]もの人々[ひとびと]がそこにいた。;thousand;Thousands of people were there.
+千;一千万円くらいかな？;一[いち]千[せん]万[まん]円[えん]くらいかな？;thousand;Is it about ten million yen?
+才;マーガレットは音楽の才がある。;マーガレットは音楽[おんがく]の才[さい]がある。;genius;Margaret has a talent for music.
+才;あなたは十才ですか。;あなたは十[じゅう]才[さい]ですか。;genius;Are you ten years old?
+両;両天びんにかけようたってそうはいきませんよ。;両[りょう]天[てん]びんにかけようたってそうはいきませんよ。;both;You can't have it both ways.
+海;海はとても広い。;海[うみ]はとても広[ひろ]い。;sea, ocean;The sea is very wide.
+海;海がはっきりしない。;海[うみ]がはっきりしない。;sea, ocean;The sea is not clear.
+海;はるか向こうに海があった。;はるか向[む]こうに海[うみ]があった。;sea, ocean;Beyond was the sea.
+百;一メートルは百センチメートルです。;一[いち]メートルは百[ひゃく]センチメートルです。;hundred;A meter is 100 centimeters.
+百;百セントは一ドルになります。;百[ひゃく]セントは一[いち]ドルになります。;hundred;One hundred cents makes one dollar.
+由;それについては知る由もなかった。;それについては知[し]る由[よし]もなかった。;reason;She had no way to know about it.
+辺;まずその辺です。;まずその辺[あたり]です。;area;That's about it.
+辺;このへんはとてもさびしい。;このへんはとてもさびしい。;area;This neighborhood is very lonely.
+辺;正方形には四つの辺がある。;正方形[せいほうけい]には四[よっ]つの辺[あたり]がある。;area;A square has four sides.
+辺;この辺にあると思います。;この辺[あたり]にあると思[おも]います。;area;I think it's somewhere around here.
+辺;この辺にスーパーはありますか。;この辺[あたり]にスーパーはありますか。;area;Is there a supermarket near here?
+辺;このへんにホテルはありますか。;このへんにホテルはありますか。;area;Is there a hotel around here?
+辺;この辺にガソリンスタンドはありますか。;この辺[あたり]にガソリンスタンドはありますか。;area;Is there a gas station around here?
+辺;この辺だと思います。;この辺[あたり]だと思[おも]います。;area;I think it's around here.
+辺;まだその辺にいるのかな？;まだその辺[あたり]にいるのかな？;area;Are you still around?
+辺;その辺にホチキスない？;その辺[あたり]にホチキスない？;area;Can't you see a stapler somewhere around there?
+辺;この辺でタクシーをひろえますか。;この辺[あたり]でタクシーをひろえますか。;area;Can I catch a taxi near here?
+辺;この辺によいレストランはありますか。;この辺[あたり]によいレストランはありますか。;area;Are there any good restaurants around here?
+家;家においでよ。;家[いえ]においでよ。;house, home;Come over!
+家;家に来て。;家[いえ]に来[き]て。;house, home;Come home.
+家;家に来いよ。;家[いえ]に来[こ]いよ。;house, home;Come home.
+家;あなたの家は大きい。;あなたの家[いえ]は大[おお]きい。;house, home;Your house is big.
+家;家が見えます。;家[いえ]が見[み]えます。;house, home;I see a house.
+家;デイビッドは家にいます。;デイビッドは家[いえ]にいます。;house, home;David is at home.
+家;日本の家は小さい。;日本[にっぽん]の家[いえ]は小[ちい]さい。;house, home;Japanese houses are small.
+家;あなたの家は大きいです。;あなたの家[いえ]は大[おお]きいです。;house, home;Your house is big.
+家;父は家にいる。;父[ちち]は家[いえ]にいる。;house, home;My father is in.
+家;うちは、コンドミニアムです。;うちは、コンドミニアムです。;house, home;Our home is a condominium.
+家;家にいるのはつまらない。;家[いえ]にいるのはつまらない。;house, home;It's boring to stay at home.
+末;できれば今週末ですね。;できれば今週[こんしゅう]末[まつ]ですね。;end;This weekend, if possible.
+末;今週末までなんだけど。;今週[こんしゅう]末[まつ]までなんだけど。;end;Until the end of the week.
+末;今週末、山に行くってのはどうかな？;今週[こんしゅう]末[まつ]、山[やま]に行[い]くってのはどうかな？;end;Why don't we go to the mountains this weekend?
+末;今月末で会社をやめることにした。;今月[こんげつ]末[まつ]で会社[かいしゃ]をやめることにした。;end;I've decided to quit my job at the end of this month.
+紙;紙がほしい。;紙[かみ]がほしい。;paper;I want some paper.
+紙;なんか紙ちょうだい。;なんか紙[かみ]ちょうだい。;paper;Can I borrow something to write on?
+紙;この紙はざらざらしている。;この紙[かみ]はざらざらしている。;paper;This paper is rough.
+紙;紙か何かある？;紙[かみ]か何[なに]かある？;paper;Do you have some paper or something?
+紙;紙は木から作られる。;紙[かみ]は木[き]から作[つく]られる。;paper;Paper is made from wood.
+紙;紙は火が付きやすい。;紙[かみ]は火[ひ]が付[つ]きやすい。;paper;Paper catches fire easily.
+理;一見したところそれ以上に理にかなったことはないであろう。;一見[いっけん]したところそれ以上[いじょう]に理[り]にかなったことはないであろう。;reason;On the face of it, nothing could be more reasonable.
+魚;今日は魚が安い。;今日[きょう]は魚[さかな]が安[やす]い。;fish;Fish is cheap today.
+魚;この魚は大きい。;この魚[さかな]は大[おお]きい。;fish;This fish is big.
+魚;たくさんの魚が死んだ。;たくさんの魚[さかな]が死[し]んだ。;fish;Many fish died.
+魚;魚がいいのですが。;魚[さかな]がいいのですが。;fish;I'd like some fish.
+魚;ディナーに魚はどうですか。;ディナーに魚[さかな]はどうですか。;fish;What about having fish for dinner?
+魚;肉になさいますか、魚になさいますか。;肉[にく]になさいますか、魚[さかな]になさいますか。;fish;Meat or fish?
+魚;魚アレルギーなんです。;魚[さかな]アレルギーなんです。;fish;I'm allergic to fish.
+魚;大海にはたくさん魚がいる。;大海[たいかい]にはたくさん魚[さかな]がいる。;fish;Fish abounds in the ocean.
+鳥;これらは鳥です。;これらは鳥[とり]です。;bird;These are birds.
+鳥;鳥が土をかき回す。;鳥[とり]が土[ど]をかき回[まわ]す。;bird;Birds disturb the soil.
+鳥;鳥がさえずった。;鳥[とり]がさえずった。;bird;The birds sang.
+鳥;わしは鳥の王だ。;わしは鳥[とり]の王[おう]だ。;bird;The eagle is king of birds.
+船;船はいかだをおろした。;船[ふね]はいかだをおろした。;boat, ship;The ship dropped anchor.
+船;この船はバンクーバー行きである。;この船[ふね]はバンクーバー行[い]きである。;boat, ship;This ship is bound for Vancouver.
+船;その船はフィンランド行きである。;その船[ふね]はフィンランド行[い]きである。;boat, ship;The ship is bound for Finland.
+船;船は出ていった。;船[ふね]は出[で]ていった。;boat, ship;The ship went off.
+船;その船はカイロ行きだった。;その船[ふね]はカイロ行[い]きだった。;boat, ship;The ship was bound for Cairo.
+雪;雪みたい。;雪[ゆき]みたい。;snow;It looks like snow.
+雪;今日は雪です。;今日[きょう]は雪[ゆき]です。;snow;It'll snow today.
+雪;雪のように見える。;雪[ゆき]のように見[み]える。;snow;It looks like snow.
+雪;雪がなくなった。;雪[ゆき]がなくなった。;snow;The snow has disappeared.
+雪;明日は雪だろう。;明日[あした]は雪[ゆき]だろう。;snow;It'll snow tomorrow.
+雪;雪のように白い。;雪[ゆき]のように白[しろ]い。;snow;It is white as snow.
+雪;雪がふっています。;雪[ゆき]がふっています。;snow;It's snowing.
+雪;雪になるでしょう。;雪[ゆき]になるでしょう。;snow;It is going to snow.
+通;ここにあなたあての手紙が何通かあります。;ここにあなたあての手紙[てがみ]が何[なん]通[つう]かあります。;pass through;Here are some letters for you.
+高;これは高すぎる。;これは高[たか]すぎる。;tall, expensive, high;That is too expensive.
+高;それは高すぎます。;それは高[たか]すぎます。;tall, expensive, high;That's too expensive.
+高;このドレスは高そうだ。;このドレスは高[たか]そうだ。;tall, expensive, high;That dress seems to be very expensive.
+高;この本は高すぎる。;この本[ほん]は高[たか]すぎる。;tall, expensive, high;This book is too expensive.
+高;あのスーツはいかにも高そうだ。;あのスーツはいかにも高[たか]そうだ。;tall, expensive, high;That suit has an expensive look.
+高;それの高さはいくらですか。;それの高[たか]さはいくらですか。;tall, expensive, high;How high is it?
+高;エベェレストの高さはどのくらい？;エベェレストの高[たか]さはどのくらい？;tall, expensive, high;What is the height of Mt. Everest?
+高;このダイバーズウォッチはちょっと高すぎるな。;このダイバーズウォッチはちょっと高[たか]すぎるな。;tall, expensive, high;This diver's watch is a little too expensive.
+高;その羽毛まくらが高そうです。;その羽毛[うもう]まくらが高[たか]そうです。;tall, expensive, high;That down pillow looks expensive.
+高;しかしながら、高すぎる。;しかしながら、高[たか]すぎる。;tall, expensive, high;However, it is too expensive.
+高;モンブランはどのくらいの高さがありますか。;モンブランはどのくらいの高[たか]さがありますか。;tall, expensive, high;How high is Mont Blanc?
+会;会はおもしろかったですか。;会[かい]はおもしろかったですか。;meet;How did you enjoy the party?
+欠;ガス欠です。;ガス欠[けつ]です。;lack;I'm out of gas.
+出;せきが出ます。;せきが出[で]ます。;exit;I have a cough.
+出;今から出ます。;今[いま]から出[で]ます。;exit;I'm leaving now.
+出;月が出た。;月[つき]が出[で]た。;exit;The moon is risen.
+出;げっぷがよく出ます。;げっぷがよく出[で]ます。;exit;I burp a lot.
+出;じんましんが出ました。;じんましんが出[で]ました。;exit;I have hives.
+出;力が出ません。;力[ちから]が出[で]ません。;exit;I feel lethargic.
+出;ベッドから出なさい。;ベッドから出[で]なさい。;exit;Get out of bed!
+出;よくくしゃみが出ます。;よくくしゃみが出[で]ます。;exit;I sneeze a lot.
+出;外へ出たい。;外[そと]へ出[で]たい。;exit;I feel like going out.
+出;日が出ている。;日[ひ]が出[で]ている。;exit;The sun is up.
+出;パーティーに出たい。;パーティーに出[で]たい。;exit;I'd like to attend the party.
+風;今日は風が強い。;今日[きょう]は風[かぜ]が強[つよ]い。;wind, style;It is windy today.
+風;風が少しある。;風[かぜ]が少[すこ]しある。;wind, style;There is some wind.
+風;今日は風がない。;今日[きょう]は風[かぜ]がない。;wind, style;There's no wind today.
+風;竹は風でたわむ。;竹[たけ]は風[かぜ]でたわむ。;wind, style;Bamboo bends before the wind.
+風;風がおだやかになった。;風[かぜ]がおだやかになった。;wind, style;The wind calmed down.
+風;風の強い日です。;風[かぜ]の強[つよ]い日[ひ]です。;wind, style;It's a windy day.
+風;風がおさまった。;風[かぜ]がおさまった。;wind, style;The wind died away.
+風;風がやみました。;風[かぜ]がやみました。;wind, style;The wind has died down.
+風;今日は全く風がない。;今日[きょう]は全[まった]く風[かぜ]がない。;wind, style;There is no wind today.
+黒;白先黒死。;白[しろ]先[さき]黒[くろ]死[し]。;black;White to play and win.
+黒;この黒メガネは大きすぎる。;この黒[くろ]メガネは大[おお]きすぎる。;black;These sunglasses are too big.
+黒;犬は黒と白の見分けがつく。;犬[いぬ]は黒[くろ]と白[しろ]の見分[みわ]けがつく。;black;Dogs see in black and white.
+黒;黒に黒をたしても白にはならぬ。;黒[くろ]に黒[くろ]をたしても白[しろ]にはならぬ。;black;Two blacks do not make a white.
+夏;夏はどうだった？;夏[なつ]はどうだった？;summer;How was your summer?
+夏;夏がやってきた。;夏[なつ]がやってきた。;summer;Summer has come.
+夏;夏が来た。;夏[なつ]が来[き]た。;summer;Summer has come.
+夏;夏はどうでしたか。;夏[なつ]はどうでしたか。;summer;How was your summer?
+夏;外は、夏みたいだよ。;外[そと]は、夏[なつ]みたいだよ。;summer;It's like summer outside.
+夏;夏のスコットランドはどんなふうですか。;夏[なつ]のスコットランドはどんなふうですか。;summer;What's Scotland like in summer?
+夏;ついに夏がやってきた。;ついに夏[なつ]がやってきた。;summer;Summer has arrived at last.
+曲;何という曲なの。;何[なに]という曲[きょく]なの。;music, bend;What's the name of this tune?
+曲;これはあなたのお気に入りの曲ですか。;これはあなたのお気に入[きにい]りの曲[きょく]ですか。;music, bend;Is this your favorite song?
+曲;わたしはその曲をしらなかった。;わたしはその曲[きょく]をしらなかった。;music, bend;The tune was not familiar to me.
+曲;近ごろどんな曲がはやってますか。;近[ちか]ごろどんな曲[きょく]がはやってますか。;music, bend;What kind of songs are popular these days?
+食;あなたはすぐ日本食になれますよ。;あなたはすぐ日本[にっぽん]食[しょく]になれますよ。;eat, meal;You'll soon get used to eating Japanese food.
+食;あのレストランは毎日二千食じゅんびしている。;あのレストランは毎日[まいにち]二[に]千[せん]食[しょく]じゅんびしている。;eat, meal;That restaurant prepares two thousand meals every day.
+来;ここに来な。;ここに来[き]な。;come;Come here.
+来;家に来て。;家[いえ]に来[き]て。;come;Come home.
+来;こっちに来て。;こっちに来[き]て。;come;Come over here.
+来;こっちへ来なさい!;こっちへ来[き]なさい!;come;Come here!
+来;こちらに来なさい。;こちらに来[き]なさい。;come;Come here.
+来;早く来なさい。;早[はや]く来[き]なさい。;come;Come quickly.
+来;ちょっと来て。;ちょっと来[き]て。;come;Come here.
+来;来て下さい。;来[き]て下[くだ]さい。;come;Please come.
+来;いっしょに来なさい。;いっしょに来[き]なさい。;come;Come with us.
+来;夏が来た。;夏[なつ]が来[き]た。;come;Summer has come.
+来;バスが来ますよ。;バスが来[き]ますよ。;come;There comes the bus.
+来;会いに来て。;会[あ]いに来[き]て。;come;Come and see me.
+来;そらバスが来た。;そらバスが来[き]た。;come;Here's the bus.
+妹;妹さんは元気？;妹[いもうと]さんは元気[げんき]？;younger sister, little sister;How's your sister?
+妹;妹は足が長い。;妹[いもうと]は足[あし]が長[なが]い。;younger sister, little sister;My sister has long legs.
+妹;妹さんによろしくね。;妹[いもうと]さんによろしくね。;younger sister, little sister;Say hello to your sister for me.
+妹;父と妹は大工さんです。;父[ちち]と妹[いもうと]は大工[だいく]さんです。;younger sister, little sister;My father and sister are carpenters.
+妹;妹がそこにいるのが見えた。;妹[いもうと]がそこにいるのが見[み]えた。;younger sister, little sister;I saw my sister there.
+夜;この人が、夜、イエスのもとに来ていった。;この人[ひと]が、夜[よる]、イエスのもとに来[き]ていった。;night, evening;He came to Jesus at night and said...
+夜;夜が明ける。;夜[よる]が明[あ]ける。;night, evening;Day breaks.
+夜;夜だった。;夜[よる]だった。;night, evening;It was night.
+夜;夜がやってきた。;夜[よる]がやってきた。;night, evening;Night came on.
+夜;もうすぐ夜が明ける。;もうすぐ夜[よる]が明[あ]ける。;night, evening;Day will break soon.
+夜;夜何してたの？;夜[よる]何[なに]してたの？;night, evening;How was your night?
+夜;明日の夜はどうですか。;明日[あした]の夜[よる]はどうですか。;night, evening;How about tomorrow night?
+夜;楽しい夜をありがとう。;楽[たの]しい夜[よる]をありがとう。;night, evening;Thank you for the pleasant evening.
+夜;夜のツアーはありますか。;夜[よる]のツアーはありますか。;night, evening;Do you offer any night tours?
+夜;夜には星が見える。;夜[よる]には星[ほし]が見[み]える。;night, evening;Stars can be seen at night.
+夜;今日の夜、空いてる？;今日[きょう]の夜[よる]、空[あ]いてる？;night, evening;Are you free tonight?
+氏;田中氏はフェミニストだ。;田中[たなか]氏[し]はフェミニストだ。;family name, last name, surname;Mr Tanaka is a chivalrous man.
+氏;ホワイト氏はカナダに行きました。;ホワイト氏[し]はカナダに行[い]きました。;family name, last name, surname;Mr. White has gone to Canada.
+氏;ブラウン氏につないでください。;ブラウン氏[し]につないでください。;family name, last name, surname;Please put me through to Mr. Brown.
+氏;ニューマン氏はしばしば日本に来ます。;ニューマン氏[し]はしばしば日本[にっぽん]に来[き]ます。;family name, last name, surname;Mr. Newman often comes to Japan.
+円;トムには十円ハゲがある。;トムには十[じゅう]円[えん]ハゲがある。;yen, round, circle;Tom has a bald spot.
+円;日本の円は上がった。;日本[にっぽん]の円[えん]は上[]がった。;yen, round, circle;The Japanese yen rose.
+円;円はドルより安い。;円[えん]はドルより安[やす]い。;yen, round, circle;The yen is weaker than the dollar.
+円;この本は三千円する。;この本[ほん]は三[さん]千[せん]円[えん]する。;yen, round, circle;This book costs 3000 yen.
+強;このウイスキーは強すぎる。;このウイスキーは強[つよ]すぎる。;strong, strength;This whisky is too strong.
+平;平なべを火からおろしなさい。;平[ひら]なべを火[ひ]からおろしなさい。;flat, peace;Take the pan off the fire.
+当;当市にはたくさんの学校がある。;当[とう]市[し]にはたくさんの学校[がっこう]がある。;right, success, correct;There are a great number of schools in this city.
+丸;丸一日オンラインで君を見ないなんてびっくりだよ。;丸[まる]一[いち]日[にち]オンラインで君[きみ]を見[み]ないなんてびっくりだよ。;circle, circular, round;It almost scared me not to see you online for a whole day.
+丸;丸一日教えられていたのでへとへとだった。;丸[まる]一[いち]日[にち]教[おし]えられていたのでへとへとだった。;circle, circular, round;I was exhausted by a full day's teaching.
+点;その他の点では正しい。;その他[た]の点[てん]では正[ただ]しい。;point, decimal, decimal point;It is otherwise correct.
+点;それはデリケートな点です。;それはデリケートな点[てん]です。;point, decimal, decimal point;That's a delicate point.
+点;ワントライって何点？;ワントライって何[なん]点[てん]？;point, decimal, decimal point;How many points is a try worth?
+点;その点はまちがいっこない。;その点[てん]はまちがいっこない。;point, decimal, decimal point;There's no mistaking about that.
+組;パーシーという人が君の組にいますか。;パーシーという人[ひと]が君[きみ]の組[くみ]にいますか。;group, association, team;Is there a Percy in your class?
+時;じゃあその時に。;じゃあその時[とき]に。;time, o'clock, hour;See you then.
+時;時のたつのは早いものだ。;時[とき]のたつのは早[はや]いものだ。;time, o'clock, hour;Time flies.
+時;午後八時です。;午後[ごご]八[はち]時[じ]です。;time, o'clock, hour;It's 8 P.M.
+時;行きたいときに行きなさい。;行[い]きたいときに行[い]きなさい。;time, o'clock, hour;Go when you want.
+時;何時ですか。;何[なん]時[じ]ですか。;time, o'clock, hour;What time is it?
+時;何時ごろ。;何[なん]時[じ]ごろ。;time, o'clock, hour;About what time?
+時;もう十一時よ。;もう十[じゅう]一[いち]時[じ]よ。;time, o'clock, hour;It's already 11.
+時;もう九時です。;もう九[きゅう]時[じ]です。;time, o'clock, hour;It is already nine o'clock.
+時;午後二時です。;午後[ごご]二[に]時[じ]です。;time, o'clock, hour;It's 2:00 p.m.
+木;リンゴは木になる。;リンゴは木[き]になる。;tree, wood;Apples grow on trees.
+木;これはレモンの木です。;これはレモンの木[き]です。;tree, wood;This is a lemon tree.
+木;これは木のくしです。;これは木[き]のくしです。;tree, wood;This is a wooden comb.
+木;これはとても高い木です。;これはとても高[たか]い木[き]です。;tree, wood;This is a very tall tree.
+二;二、三デメリットがありますね。;二[に]、三[さん]デメリットがありますね。;two;There are a few disadvantages to it.
+二;二、三歩下がって下さい。;二[に]、三[さん]歩[ほ]下[]がって下[くだ]さい。;two;Please walk back a few steps.
+二;二時間します。;二[に]時間[じかん]します。;two;For two hours.
+二;グレンには二人のガールフレンドがいる。;グレンには二[に]人[にん]のガールフレンドがいる。;two;Glenn has two girlfriends.
+二;午後二時です。;午後[ごご]二[に]時[じ]です。;two;It's 2:00 p.m.
+女;ジャスティンは女っぽい。;ジャスティンは女[おんな]っぽい。;woman;Justin is feminine.
+女;この女はカッコいいなあ。;この女[おんな]はカッコいいなあ。;woman;This woman is very good looking.
+女;女のきょうだいはいません。;女[おんな]のきょうだいはいません。;woman;I have no sisters.
+女;あの女は思わせぶりをする。;あの女[おんな]は思[おも]わせぶりをする。;woman;She is quite coquettish.
+女;女の兄弟がいますか。;女[おんな]の兄弟[きょうだい]がいますか。;woman;Do you have any sisters?
+大;大か、小か。;大[だい]か、小[しょう]か。;big, large;Large or small?
+右;右に曲がりなさい。;右[みぎ]に曲[ま]がりなさい。;right;Turn to the right.
+右;そこを右に曲がりなさい。;そこを右[みぎ]に曲[ま]がりなさい。;right;Turn right there.
+右;右を向いてください。;右[みぎ]を向[む]いてください。;right;Turn to the right.
+右;日本車は右ハンドルです。;日本[にっぽん]車[しゃ]は右[みぎ]ハンドルです。;right;Japanese cars are right hand drive.
+右;右耳からうみが出ます。;右[みぎ]耳[みみ]からうみが出[で]ます。;right;Pus is coming out of my right ear.
+右;次の角で右に曲がりなさい。;次[つぎ]の角[かく]で右[みぎ]に曲[ま]がりなさい。;right;Turn right at the next corner.
+水;水をください。;水[みず]をください。;water;Some water, please.
+水;水は十分ある。;水[みず]は十分[じゅうぶん]ある。;water;We have enough water.
+水;ここに水が少しある。;ここに水[みず]が少[すこ]しある。;water;Here's some water.
+水;コップは水でいっぱいだ。;コップは水[みず]でいっぱいだ。;water;The glass is full of water.
+火;火に近づくな。;火[ひ]に近[ちか]づくな。;fire;Don't go near the fire.
+火;火を弱くして。;火[ひ]を弱[よわ]くして。;fire;Turn the flame down low.
+火;カーテンに火が点いた。;カーテンに火[ひ]が点[つ]いた。;fire;The curtain caught fire.
+火;カーテンに火がついた。;カーテンに火[ひ]がついた。;fire;The curtain caught fire.
+火;ケンがろうそくに火をつけた。;ケンがろうそくに火[ひ]をつけた。;fire;Ken lit the candles.
+火;たとえ火の中水の中。;たとえ火[ひ]の中[なか]水[みず]の中[なか]。;fire;Go through fire and water.
+火;セシルはろうそくに火をつけた。;セシルはろうそくに火[ひ]をつけた。;fire;Cecil lit a candle.
+火;火の用心をしなさい。;火[ひ]の用心[ようじん]をしなさい。;fire;Guard against the danger of fire.
+火;火がすぐに付いた。;火[ひ]がすぐに付[つ]いた。;fire;The fire started immediately.
+火;紙は火が付きやすい。;紙[かみ]は火[ひ]が付[つ]きやすい。;fire;Paper catches fire easily.
+白;白先黒死。;白[しろ]先[さき]黒[くろ]死[し]。;white;White to play and win.
+白;犬は黒と白の見分けがつく。;犬[いぬ]は黒[くろ]と白[しろ]の見分[みわ]けがつく。;white;Dogs see in black and white.
+白;赤は白をバックにするとよく目立つ。;赤[あか]は白[しろ]をバックにするとよく目立[めだ]つ。;white;Red shows up well against a white background.
+白;白ワインと赤ワイン、どちらになさいますか。;白[しろ]ワインと赤[あか]ワイン、どちらになさいますか。;white;Would you like white wine or red?
+白;赤ワインにしますかそれとも白ワインにしますか。;赤[あか]ワインにしますかそれとも白[しろ]ワインにしますか。;white;Would you like red wine or white wine?
+白;黒に黒をたしても白にはならぬ。;黒[くろ]に黒[くろ]をたしても白[しろ]にはならぬ。;white;Two blacks do not make a white.
+白;赤白まだらのタオルを一本ください。;赤[あか]白[しら]まだらのタオルを一[いち]本[ほん]ください。;white;A red and spotted white towel, please.
+姉;姉はタイプが上手です。;姉[あね]はタイプが上手[じょうず]です。;older sister, big sister, elder sister;My older sister is good at typing.
+矢;矢は木をかすめた。;矢[や]は木[き]をかすめた。;arrow;The arrow glanced off the tree.
+肉;肉を食べますか。;肉[にく]を食[た]べますか。;meat;Do you eat meat?
+肉;この肉はおいしい。;この肉[にく]はおいしい。;meat;This is good meat.
+肉;肉になさいますか、魚になさいますか。;肉[にく]になさいますか、魚[さかな]になさいますか。;meat;Meat or fish?
+肉;近ごろは肉がとても高い。;近[ちか]ごろは肉[にく]がとても高[たか]い。;meat;Meat is very expensive nowadays.
+肉;魚や肉を売っている。;魚[さかな]や肉[にく]を売[]っている。;meat;They sell fish and meat.
+四;犬は四本足である。;犬[いぬ]は四[よん]本[ほん]足[あし]である。;four;A dog has four legs.
+四;一日は二十四時間ある。;一[いち]日[にち]は二[に]十[じゅう]四[よん]時間[じかん]ある。;four;A day has twenty-four hours.
+小;大か、小か。;大[だい]か、小[しょう]か。;small, little;Large or small?
+小;小さすぎるわ。;小[ちい]さすぎるわ。;small, little;It's too small.
+小;ごちそうは小人数ほどよい。;ごちそうは小[しょう]人数[にんずう]ほどよい。;small, little;The fewer, the better.
+小;今日、小テストがありました。;今日[きょう]、小[しょう]テストがありました。;small, little;We had a quiz today.
+手;手を下げろ。;手[て]を下[さ]げろ。;hand;Put your hand down.
+手;手を上げなさい。;手[て]を上[あ]げなさい。;hand;Raise your hand.
+手;手は空いていますよ。;手[て]は空[あ]いていますよ。;hand;I'm free.
+手;それはよくある手だ。;それはよくある手[て]だ。;hand;That's an old trick.
+手;ガラスに手をふれるな。;ガラスに手[て]をふれるな。;hand;Don't touch the glass.
+手;ブライアンはバラを手にした。;ブライアンはバラを手[て]にした。;hand;Brian took some roses.
+行;行と行との間をあける。;行[くだり]と行[くだり]との間[ま]をあける。;go;Leave a space between the lines.
+行;行と行の間をもっと空けなさい。;行[くだり]と行[くだり]の間[ま]をもっと空[あ]けなさい。;go;Leave more space between the lines.
+行;そのような行ないはいかにもメグらしい。;そのような行[くだり]ないはいかにもメグらしい。;go;It's just like Meg to act that way.
+西;フランスは西ヨーロッパにある。;フランスは西[にし]ヨーロッパにある。;west;France is in western Europe.
+西;船は西へ向かっている。;船[ふね]は西[にし]へ向[]かっている。;west;The ship is sailing to the west.
+西;この町は西も東も分かりません。;この町[まち]は西[にし]も東[ひがし]も分[わ]かりません。;west;I'm quite a stranger in this town.
+体;体がほてります。;体[からだ]がほてります。;body;I have hot flashes.
+体;お体を大切に。;お体[からだ]を大切[たいせつ]に。;body;Take care.
+体;金より体。;金[きん]より体[からだ]。;body;Health is better than wealth.
+体;体ぜんたいがだるいです。;体[からだ]ぜんたいがだるいです。;body;My whole body feels heavy.
+体;体中がかゆいのです。;体[からだ]中[ちゅう]がかゆいのです。;body;My body itches all over.
+目;目がかゆいです。;目[め]がかゆいです。;eye;My eyes are itchy.
+目;目がかすみます。;目[め]がかすみます。;eye;I have bleary eyes.
+目;目がチカチカします。;目[め]がチカチカします。;eye;My eyes feel irritated.
+目;目がヒリヒリします。;目[め]がヒリヒリします。;eye;My eyes smart.
+目;アンはチョコレートに目がない。;アンはチョコレートに目[め]がない。;eye;Ann is partial to chocolate.
+目;目がゴロゴロします。;目[め]がゴロゴロします。;eye;My eyes feel gritty.
+目;日本人は目が黒い。;日本人[にっぽんじん]は目[め]が黒[くろ]い。;eye;The Japanese have dark eyes.
+谷;人生は山あり谷あり。;人生[じんせい]は山[やま]あり谷[たに]あり。;valley;Life has its ups and downs.
+谷;川は谷をながれている。;川[かわ]は谷[たに]をながれている。;valley;A river flows through the valley.
+谷;その谷で金が見つかったといううわさがある。;その谷[たに]で金[きん]が見[]つかったといううわさがある。;valley;There is a rumor that gold has been found in the valley.
+金;金がものを言う。;金[きむ]がものを言[い]う。;gold;Money talks.
+金;金がすべてではない。;金[きむ]がすべてではない。;gold;Money is not everything.
+金;金が多すぎる？;金[きむ]が多[おお]すぎる？;gold;Too much money?
+金;金より体。;金[きん]より体[からだ]。;gold;Health is better than wealth.
+金;金は少しある。;金[きん]は少[すこ]しある。;gold;I have a little money.
+金;金を出しなさい。;金[きん]を出[だ]しなさい。;gold;Get out your wallet.
+金;金出せよ。;金[きん]出[だ]せよ。;gold;Give me your money.
+金;金は少ししかない。;金[きん]は少[すこ]ししかない。;gold;I have little money.
+金;金はたくさんある。;金[きん]はたくさんある。;gold;There is a lot of money.
+音;あの音は何ですか。;あの音[おと]は何[なに]ですか。;sound;What's that sound?
+音;音をたてるな。;音[おと]をたてるな。;sound;Don't make a noise.
+音;ラジオの音がでない。;ラジオの音[おと]がでない。;sound;The radio doesn't work.
+音;大きな音をたてた。;大[おお]きな音[おと]をたてた。;sound;It rang loudly.
+音;音を大きくして。;音[おと]を大[おお]きくして。;sound;Turn the volume up.
+音;ラジオの音が大きすぎる。;ラジオの音[おと]が大[おお]きすぎる。;sound;The radio is too loud.
+音;テレビの音大きくして。;テレビの音[おと]大[おお]きくして。;sound;Turn up the TV.
+音;あの音は何だったのか。;あの音[おと]は何[なに]だったのか。;sound;What was that noise?
+音;ラジオの音を小さくしなさい。;ラジオの音[おと]を小[ちい]さくしなさい。;sound;Turn down the radio.
+音;テレビの音小さくして。;テレビの音[おと]小[ちい]さくして。;sound;Turn down the TV.
+音;テレビの音を小さくしなさい。;テレビの音[おと]を小[ちい]さくしなさい。;sound;Turn down the television.
+音;一体全体あの音は何か。;一体全体[いったいぜんたい]あの音[おと]は何[なに]か。;sound;Whatever is that noise?
+音;音を小さくしてください。;音[おと]を小[ちい]さくしてください。;sound;Turn down the volume, please.
+音;あの音は何だったんですか。;あの音[おと]は何[なに]だったんですか。;sound;What was that noise?
+青;あの青白く光っている星がシリウスです。;あの青白[あおじろ]く光[ひ]っている星[ほし]がシリウスです。;blue;That blue-white shining star is Sirius.
+林;林に竹が目立つ。;林[はやし]に竹[たけ]が目立[めだ]つ。;forest, woods;Bamboo stands out in the woods.
+林;林の中でいっぱい虫にさされた。;林[はやし]の中[なか]でいっぱい虫[むし]にさされた。;forest, woods;I got a lot of insect bites in the woods.
+安;雨後のたけのこのような安アパート。;雨後[うご]のたけのこのような安[やす]アパート。;relax, cheap;Cheap apartment houses are multiplying rapidly.
+安;円高ドル安だ。;円[えん]高[だか]ドル安[やす]だ。;relax, cheap;The yen is rising and the dollar is falling.
+血;血のかたまりが出ました。;血[ち]のかたまりが出[で]ました。;blood;I passed clots.
+血;血はどす黒かったです。;血[ち]はどす黒[ぐ]かったです。;blood;The blood was a dark color.
+血;そのナイフは血にまみれていた。;そのナイフは血[ち]にまみれていた。;blood;The knife was covered in blood.
+回;もう一回。;もう一[いち]回[かい]。;times, revolve;Once again.
+回;そこには何回行ったの？;そこには何[なん]回[かい]行[おこ]ったの？;times, revolve;How many times have you gone there?
+店;どの店がすきですか。;どの店[みせ]がすきですか。;shop, store;Which is your favorite store?
+店;この店にはハガキがたくさんある。;この店[みせ]にはハガキがたくさんある。;shop, store;There are many postcards in this store.
+店;この店にはポストカードがたくさんある。;この店[みせ]にはポストカードがたくさんある。;shop, store;There are many postcards in this store.
+店;今や有名店ですね。;今[いま]や有名[ゆうめい]店[てん]ですね。;shop, store;The store is making a mark.
+店;その店はすぐ近くですか。;その店[みせ]はすぐ近[ちか]くですか。;shop, store;Is the store near at hand?
+歩;もう一歩も歩けない。;もう一[いち]歩[ほ]も歩[ある]けない。;walk;I can't take another step.
+歩;二、三歩下がって下さい。;二[に]、三[さん]歩[ほ]下[]がって下[くだ]さい。;walk;Please walk back a few steps.
+歩;一歩一歩学ばなければなりません。;一[いち]歩[ほ]一[いち]歩[ほ]学[まな]ばなければなりません。;walk;You must learn step by step.
+南;南ターミナルはどこですか。;南[みなみ]ターミナルはどこですか。;south;Where is the south terminal?
+南;オーストラリアは南アメリカより小さい。;オーストラリアは南[みなみ]アメリカより小[ちい]さい。;south;Australia is smaller than South America.
+南;その家は南向きである。;その家[いえ]は南[みなみ]向[む]きである。;south;The house has a southern aspect.
+南;まもなくツバメが南からやってくる。;まもなくツバメが南[みなみ]からやってくる。;south;Soon, swallows will come from the south.
+南;たくさんのツバメがまもなく南からやってくる。;たくさんのツバメがまもなく南[みなみ]からやってくる。;south;Many swallows will come soon from the south.
+茶;これは水っぽい茶だね。;これは水[みず]っぽい茶[ちゃ]だね。;tea;This is a weak tea, isn't it?
+茶;わたしはコーヒーよりも茶をこのむ。;わたしはコーヒーよりも茶[ちゃ]をこのむ。;tea;I prefer tea to coffee.
+全;フランスの全人口はどのくらいですか。;フランスの全[ぜん]人口[じんこう]はどのくらいですか。;all, whole;What's the total population of France?
+久;おごる平家は久しからず。;おごる平家[へいけ]は久[ひさ]しからず。;long time;Pride will have a fall.
+地;その行楽地はとてもいきやすい。;その行楽[こうらく]地[ち]はとてもいきやすい。;earth, ground;Access to the resort is quite easy.
+又;また後で。;また後[あと]で。;again;See you later.
+又;また明日。;また明日[あした]。;again;See you tomorrow.
+又;また雨だ。;また雨[あめ]だ。;again;It's raining again!
+又;明日またいらっしゃい。;明日[あした]またいらっしゃい。;again;Come again tomorrow.
+又;また会いましょう。;また会[あ]いましょう。;again;See you again.
+又;またいつでもどうぞ。;またいつでもどうぞ。;again;Come again any time.
+又;それじゃまた明日。;それじゃまた明日[あした]。;again;See you tomorrow.
+又;では又会いましょう。;では又[また]会[あ]いましょう。;again;See you later.
+又;またお目にかかりましょう。;またお目[め]にかかりましょう。;again;See you again.
+又;またこの次までね。;またこの次[つぎ]までね。;again;Until next time.
+又;またぜひおいでください。;またぜひおいでください。;again;Do come again.
+又;またそんなこと言って。;またそんなこと言[]って。;again;Oh, come on.
+又;また後でかけます。;また後[あと]でかけます。;again;I'll call again later.
+又;またエンジンがかかった。;またエンジンがかかった。;again;The engine came alive again.
+死;白先黒死。;白[しろ]先[さき]黒[くろ]死[し]。;death;White to play and win.
+羊;羊は草を食べる。;羊[ひつじ]は草[くさ]を食[た]べる。;sheep;Sheep feed on grass.
+羊;ニュージーランドは羊と牛の国です。;ニュージーランドは羊[ひつじ]と牛[うし]の国[くに]です。;sheep;New Zealand is a country of sheep and cows.
+人;ジムはカナダ人です。;ジムはカナダ人[じん]です。;person;Jim is Canadian.
+人;人は必ず死ぬ。;人[ひと]は必[かなら]ず死[し]ぬ。;person;Man is mortal.
+人;いい人です。;いい人[ひと]です。;person;They are good people.
+人;あの人は死んだ。;あの人[ひと]は死[し]んだ。;person;That person died.
+人;日本人はアジア人です。;日本人[にっぽんじん]はアジア人[じん]です。;person;Japanese are Asians.
+人;わたしは上海人です。;わたしは上海[しゃんはい]人[じん]です。;person;I'm Shanghainese.
+人;アメリカ人はとてもフレンドリーだ。;アメリカ人[じん]はとてもフレンドリーだ。;person;Americans are very friendly people.
+人;この人はお父さんです。;この人[ひと]はお父[とう]さんです。;person;He is my father.
+人;人はすべて必ず死ぬ。;人[ひと]はすべて必[かなら]ず死[し]ぬ。;person;Everyone dies.
+広;カリフォルニアは日本と同じくらいの広さだ。;カリフォルニアは日本[にっぽん]と同[おな]じくらいの広[ひろ]さだ。;wide;California is about as large as Japan.
+広;この家の広さはどのくらいありますか。;この家[いえ]の広[ひろ]さはどのくらいありますか。;wide;What is the area of this house?
+生;キャベツは生で食べられる。;キャベツは生[なま]で食[た]べられる。;life;Cabbage can be eaten raw.
+生;日本ではしばしば魚を生で食べる。;日本[にっぽん]ではしばしば魚[さかな]を生[なま]で食[た]べる。;life;We often eat fish raw in Japan.
+生;君は生のカキは食べれますか。;君[きみ]は生[なま]のカキは食[た]べれますか。;life;Can you eat raw oysters?
+生;生の魚を食べる犬なんているのだろうか？;生[なま]の魚[さかな]を食[た]べる犬[いぬ]なんているのだろうか？;life;Are there dogs that eat raw fish?
+生;兄ちゃん、こっち生中二つー。;兄[にい]ちゃん、こっち生[せい]中[ちゅう]二[ふた]つー。;life;Kiddo! Two medium-size drafts here.
+池;池がひ上がった。;池[いけ]がひ上[]がった。;pond;The pond has dried up.
+池;その池にはほとんど水がない。;その池[いけ]にはほとんど水[みず]がない。;pond;There is little water in the pond.
+池;池には魚がたくさんいる。;池[いけ]には魚[さかな]がたくさんいる。;pond;There are a lot of fish in the pond.
+池;今日は池にたくさんの水があります。;今日[きょう]は池[いけ]にたくさんの水[みず]があります。;pond;There is much water in the pond today.
+池;あの池には近づかないでください。;あの池[いけ]には近[ちか]づかないでください。;pond;Keep away from that pond, please.
+月;月が出た。;月[つき]が出[で]た。;moon, month;The moon is risen.
+月;もう月が出ているよ。;もう月[つき]が出[で]ているよ。;moon, month;The moon is already out.
+月;まもなく月がでた。;まもなく月[つき]がでた。;moon, month;Before long, the moon came out.
+月;月には空気がない。;月[つき]には空気[くうき]がない。;moon, month;There is no air on the moon.
+月;月はもう上がっている。;月[つき]はもう上[]がっている。;moon, month;The moon is already out.
+月;今夜は月がとてもきれいだ。;今夜[こにゃ]は月[つき]がとてもきれいだ。;moon, month;The moon is very beautiful this evening.
+里;里さんって文学が上手ですか。;里[さと]さんって文学[ぶんがく]が上手[じょうず]ですか。;home village, home town, hometown;Is Mr Sato good at literature?
+前;一の前にはゼロです。;一[いち]の前[まえ]にはゼロです。;front, before;Zero is what comes before one.
+前;この前、行きました。;この前[まえ]、行[い]きました。;front, before;I went there recently.
+前;前に行ったください。;前[まえ]に行[]ったください。;front, before;Move along, please.
+前;このベンチを前に出して。;このベンチを前[まえ]に出[だ]して。;front, before;Put this bench forward.
+前;まっすぐ前を見てください。;まっすぐ前[まえ]を見[み]てください。;front, before;Look forward, please.
+長;これは長すぎます。;これは長[なが]すぎます。;long, leader;This is too long.
+長;この長さはどれくらいですか。;この長[なが]さはどれくらいですか。;long, leader;How long is this?
+長;ドレスはヒザまで長さがある。;ドレスはヒザまで長[なが]さがある。;long, leader;The dress comes to my knees.
+長;レインボウブリッジの長さはどのくらいですか。;レインボウブリッジの長[なが]さはどのくらいですか。;long, leader;How long is the Rainbow Bridge?
+星;空は星でいっぱいだ。;空[そら]は星[ほし]でいっぱいだ。;star;The sky is full of stars.
+星;この本は星についてです。;この本[ほん]は星[ほし]についてです。;star;This book is about stars.
+星;夜には星が見える。;夜[よる]には星[ほし]が見[み]える。;star;Stars can be seen at night.
+星;これは星の本です。;これは星[ほし]の本[ほん]です。;star;This is a book about stars.
+星;今夜は星がたくさん見える。;今夜[こにゃ]は星[ほし]がたくさん見[み]える。;star;We can see many stars tonight.
+星;これは星についての本です。;これは星[ほし]についての本[ほん]です。;star;This book is about stars.
+星;星が出てきた。;星[ほし]が出[で]てきた。;star;The stars came out.
+星;今夜は空は星で明るい。;今夜[こにゃ]は空[そら]は星[ほし]で明[あか]るい。;star;The heavens are bright with stars tonight.
+星;キャシーは星を見つめている。;キャシーは星[ほし]を見[み]つめている。;star;Kathy is gazing at the stars.
+光;月の光が弱い。;月[つき]の光[ひかり]が弱[よわ]い。;sunlight, light;The light from the moon is weak.
+光;光が世にやって来た。;光[ひかり]が世[よ]にやって来[き]た。;sunlight, light;Light has come into the world.
+正;正はやさしい声をしている。;正[せい]はやさしい声[こえ]をしている。;correct;Tadashi has a soft voice.
+子;あの子はあかだらけだ。;あの子[こ]はあかだらけだ。;child, kid;The child is dirty.
+子;あの子はしょうがない子だ。;あの子[こ]はしょうがない子[こ]だ。;child, kid;That child is impossible.
+子;あなたはヨハネの子シモンです。;あなたはヨハネの子[こ]シモンです。;child, kid;You are Simon, son of John.
+子;この子のこと教えて。;この子[こ]のこと教[おし]えて。;child, kid;Tell me about this girl.
+子;君はいい子です。;君[きみ]はいい子[こ]です。;child, kid;You are a good boy.
+子;あの子は手がかかる。;あの子[こ]は手[て]がかかる。;child, kid;That boy is a handful.
+子;あなたはすてきな子です。;あなたはすてきな子[こ]です。;child, kid;You are a nice boy.
+社;この社はジュピターにささげられたものだ。;この社[しゃ]はジュピターにささげられたものだ。;company;This shrine is sacred to Jupiter.
+六;もうすぐ六時です。;もうすぐ六[ろく]時[じ]です。;six;It's almost six.
+六;九引く六はいくつですか。;九[きゅう]引[ひ]く六[ろく]はいくつですか。;six;How many is nine minus six?
+刀;その刀は王子にふさわしい。;その刀[かたな]は王子[おうじ]にふさわしい。;katana, sword;That sword is fit for a prince.
+刀;二人の刀がガチッと切りあった。;二[に]人[にん]の刀[かたな]がガチッと切[き]りあった。;katana, sword;Their swords clashed.
+天;天は人の上に人をつくらず、人の下にひとをつくらず。;天[てん]は人[ひと]の上[うえ]に人[ひと]をつくらず、人[ひと]の下[した]にひとをつくらず。;heaven;The heavens do not create men that are more than men, nor do they create men that are less than men.
+犬;これは犬だ。;これは犬[いぬ]だ。;dog;This is a dog.
+犬;あの犬は大きい。;あの犬[いぬ]は大[おお]きい。;dog;That dog is big.
+犬;犬を見た。;犬[いぬ]を見[み]た。;dog;I saw the dog.
+犬;この犬は白いです。;この犬[いぬ]は白[しろ]いです。;dog;This dog is white.
+犬;この犬たちは大きい。;この犬[いぬ]たちは大[おお]きい。;dog;These dogs are big.
+犬;あのイヌは大きい。;あのイヌは大[おお]きい。;dog;That dog is big.
+犬;あなたの犬はどこですか。;あなたの犬[いぬ]はどこですか。;dog;Where is your dog?
+犬;ケンの犬は白い。;ケンの犬[いぬ]は白[しろ]い。;dog;Ken's dog is white.
+犬;これは犬です。;これは犬[いぬ]です。;dog;This is a dog.
+王;わしは鳥の王だ。;わしは鳥[とり]の王[おう]だ。;king;The eagle is king of birds.
+王;王さんは中国の出身です。;王[おう]さんは中国[ちゅうごく]の出身[しゅっしん]です。;king;Mr Wang is from China.
+王;それは王その人であった。;それは王[おう]その人[ひと]であった。;king;It was none other than the king.
+左;左へ曲がりなさい。;左[ひだり]へ曲[ま]がりなさい。;left;Turn to the left.
+左;左を向いてください。;左[ひだり]を向[む]いてください。;left;Turn to the left.
+左;その角を左に曲がってちょうだい。;その角[かく]を左[ひだり]に曲[]がってちょうだい。;left;Turn left at the corner.
+左;そのタクシーはいきなり左に曲がった。;そのタクシーはいきなり左[ひだり]に曲[]がった。;left;The taxi abruptly turned left.
+左;その角を左へ曲がりなさい。;その角[かく]を左[ひだり]へ曲[ま]がりなさい。;left;Turn left at the corner.
+左;次のかどで左に曲がって。;次[つぎ]のかどで左[ひだり]に曲[]がって。;left;Turn left at the next corner.
+左;左耳から耳だれが出ます。;左[ひだり]耳[みみ]から耳[みみ]だれが出[で]ます。;left;I have a discharge from my left ear.
+左;左に曲がるとガソリンスタンドがある。;左[ひだり]に曲[ま]がるとガソリンスタンドがある。;left;Turning to the left, you will find the gas station.
+半;海までわずか半マイルだ。;海[うみ]までわずか半[はん]マイルだ。;half;It is no more than half a mile to the sea.
+半;海まではわずか半マイルだ。;海[うみ]まではわずか半[はん]マイルだ。;half;It is no more than half a mile to the sea.
+毎;人ごとじゃないだろ。;人[ひと]ごとじゃないだろ。;every;Don't think it has nothing to do with you.
+毎;ベッドメーキングは毎日しますか。;ベッドメーキングは毎日[まいにち]しますか。;every;Should I make my bed every day?
+毎;人ごとだと思って。;人[ひと]ごとだと思[お]って。;every;That's only because you don't have to do it.
+角;そこの角ですよ。;そこの角[かく]ですよ。;angle, corner;It's at the corner.
+角;あそこの角を曲がりなさい。;あそこの角[かく]を曲[ま]がりなさい。;angle, corner;Turn at that corner there.
+角;その角を左に曲がってちょうだい。;その角[かく]を左[ひだり]に曲[]がってちょうだい。;angle, corner;Turn left at the corner.
+角;角のテーブルがいいのですが。;角[かく]のテーブルがいいのですが。;angle, corner;Could we have a table in the corner?
+角;カタツムリがすっと角を出した。;カタツムリがすっと角[かく]を出[だ]した。;angle, corner;The snail shot out its horns.
+角;水牛は大きな角をもっている。;水牛[すいぎゅう]は大[おお]きな角[かく]をもっている。;angle, corner;Buffaloes have big horns.
+角;その角を左へ曲がりなさい。;その角[かく]を左[ひだり]へ曲[ま]がりなさい。;angle, corner;Turn left at the corner.
+角;次の角で右に曲がりなさい。;次[つぎ]の角[かく]で右[みぎ]に曲[ま]がりなさい。;angle, corner;Turn right at the next corner.
+角;角を曲がったところにパブがある。;角[かく]を曲[]がったところにパブがある。;angle, corner;There's a pub just around the corner.
+角;次のかどで左に曲がって。;次[つぎ]のかどで左[ひだり]に曲[]がって。;angle, corner;Turn left at the next corner.
+角;すぐその角を曲がったところだ。;すぐその角[かく]を曲[]がったところだ。;angle, corner;It's just around the corner.
+川;その川は広い。;その川[かわ]は広[ひろ]い。;river;The river is wide.
+川;ロンドンはテムズ川のほとりにある。;ロンドンはテムズ川[がわ]のほとりにある。;river;London is on the Thames.
+川;この川には魚が多い。;この川[かわ]には魚[さかな]が多[おお]い。;river;Fish abound in this river.
+川;この川にはマスが多い。;この川[かわ]にはマスが多[おお]い。;river;This river abounds in trout.
+国;パキスタンはイスラム教の国です。;パキスタンはイスラム教[きょう]の国[くに]です。;country;Pakistan is a Muslim country.
+国;スイスは中立国である。;スイスは中立[ちゅうりつ]国[こく]である。;country;Switzerland is a neutral country.
+国;この国は雨がとぼしい。;この国[くに]は雨[あめ]がとぼしい。;country;Rain is scarce in this country.
+国;君の国はどこですか。;君[きみ]の国[くに]はどこですか。;country;Where do you come from?
+口;口をはさむな。;口[くち]をはさむな。;mouth;Mind your own business!
+口;口をあけなさい。;口[くち]をあけなさい。;mouth;Open your mouth.
+口;口を出すな。;口[くち]を出[だ]すな。;mouth;You keep out of this.
+口;自分の口で言う。;自分[じぶん]の口[くち]で言[い]う。;mouth;Say with one's own lips.
+口;死人に口なし。;死人[しにん]に口[くち]なし。;mouth;Dead man tells no tales.
+口;あいつは口のうまいやつだ。;あいつは口[くち]のうまいやつだ。;mouth;He has a smooth tongue.
+口;口をゆすいでください。;口[くち]をゆすいでください。;mouth;Please rinse out your mouth.
+口;人のことに口を出すな。;人[ひと]のことに口[くち]を出[だ]すな。;mouth;Mind your own business!
+五;五時間目ですか。;五[ご]時間[じかん]目[め]ですか。;five;Is it fifth period?
+五;夕方の五時です。;夕方[ゆうがた]の五[ご]時[じ]です。;five;At five in the evening.
+五;三日から五日で。;三[さん]日[にち]から五[ご]日[にち]で。;five;Maybe three to five days.
+五;ちょうど五時です。;ちょうど五[ご]時[じ]です。;five;It is just five o'clock.
+五;三に二を足すと五になる。;三[さん]に二[に]を足[た]すと五[ご]になる。;five;Add two to three, and you get five.
+米;日本では米が主食です。;日本[にっぽん]では米[こめ]が主食[しゅしょく]です。;rice, america;The main diet in Japan is rice.
+米;日本人は主に米を食べる。;日本人[にっぽんじん]は主[おも]に米[こめ]を食[た]べる。;rice, america;The Japanese live mainly on rice.
+米;あなたの国では米を食べますか？;あなたの国[くに]では米[こめ]を食[た]べますか？;rice, america;Do you eat rice in your country?
+米;米はそこならすぐさばける。;米[べい]はそこならすぐさばける。;rice, america;Rice will find a ready market there.
+米;日本人は米を主食としている。;日本人[にっぽんじん]は米[こめ]を主食[しゅしょく]としている。;rice, america;The Japanese live on rice.
+米;日本人は米を食べて生きている。;日本人[にっぽんじん]は米[こめ]を食[た]べて生[い]きている。;rice, america;The Japanese live on rice.
+米;たいていの日本人は米を主食にしている。;たいていの日本人[にっぽんじん]は米[こめ]を主食[しゅしょく]にしている。;rice, america;Most Japanese live on rice.
+色;いくつの色がありますか？;いくつの色[いろ]がありますか？;color, colour;How many colors are there?
+色;それの色は赤い。;それの色[いろ]は赤[あか]い。;color, colour;Its color is red.
+色;色の上がりがよい。;色[いろ]の上[あ]がりがよい。;color, colour;The color has come out well.
+色;色は何色ありますか。;色[いろ]は何[なん]色[しょく]ありますか。;color, colour;How many colours are there?
+色;カメレオンはどんな色にでもなれる。;カメレオンはどんな色[いろ]にでもなれる。;color, colour;The chameleon can take on any color.
+色;そのコンピューターの色は赤い。;そのコンピューターの色[いろ]は赤[あか]い。;color, colour;The computer's color is red.
+色;色はさめないでしょう。;色[いろ]はさめないでしょう。;color, colour;The color won't fade.
+土;鳥が土をかき回す。;鳥[とり]が土[ど]をかき回[まわ]す。;soil, earth, ground, dirt;Birds disturb the soil.
+土;かれは土に水をやった。;かれは土[ど]に水[みず]をやった。;soil, earth, ground, dirt;He watered the soil.
+下;下を見ろ。;下[した]を見[み]ろ。;below, down, under, beneath;See below.
+下;テーブルの下よ。;テーブルの下[した]よ。;below, down, under, beneath;It's under the table.
+下;クッキーはテーブルの下にいる。;クッキーはテーブルの下[した]にいる。;below, down, under, beneath;Cookie is under the table.
+下;クッキーはテーブルの下にある。;クッキーはテーブルの下[した]にある。;below, down, under, beneath;There is a cookie under the table.
+下;ベッドの下にモンスターがいる。;ベッドの下[した]にモンスターがいる。;below, down, under, beneath;There's a monster under my bed.
+下;テーブルの下に犬がいる。;テーブルの下[した]に犬[いぬ]がいる。;below, down, under, beneath;There is a dog under the table.
+下;サムはトムより二つ下だ。;サムはトムより二[ふた]つ下[か]だ。;below, down, under, beneath;Sam is two years younger than Tom.
+州;ネッドはユタ州の出身。;ネッドはユタ州[しゅう]の出身[しゅっしん]。;state, province, county;Ned comes from the state of Utah.
+州;ニューヨーク州はギリシャとほぼ同じ大きさだ。;ニューヨーク州[しゅう]はギリシャとほぼ同[おな]じ大[おお]きさだ。;state, province, county;New York State is almost as large as Greece.
+文;文は人なり。;文[ぶん]は人[ひと]なり。;writing, sentence;The style is the man himself.
+後;後をつけろ。;後[ご]をつけろ。;behind, after, back, rear;Follow him.
+後;もう後がない。;もう後[ご]がない。;behind, after, back, rear;We have our backs to the wall.
+後;いぬが後についてきた。;いぬが後[ご]についてきた。;behind, after, back, rear;The dog followed me.
+内;できるうちに人生を楽しめ。;できるうちに人生[じんせい]を楽[たの]しめ。;inside, within;Enjoy life while you may.
+内;うちの会社には空きがない。;うちの会社[かいしゃ]には空[あ]きがない。;inside, within;There is no opening in our firm.
+内;今夜うちにいてくれ。;今夜[こにゃ]うちにいてくれ。;inside, within;Be at home this evening.
+代;バス代が上がった。;バス代[だい]が上[]がった。;substitute, replacement;The bus fare was raised.
+代;オーバーのクリーニング代はいくらですか。;オーバーのクリーニング代[だい]はいくらですか。;substitute, replacement;What is the charge for cleaning overcoats?
+代;毎月のガス代はいくらですか。;毎月[まいつき]のガス代[だい]はいくらですか。;substitute, replacement;How much is your monthly gas bill?
+羽;ツバメ一羽で夏にはならぬ。;ツバメ一[いち]羽[わ]で夏[なつ]にはならぬ。;feather, feathers, wing, wings;One swallow does not make a summer.
+草;牛は草を食べる。;牛[うし]は草[くさ]を食[た]べる。;grass, weed;Cows eat grass.
+草;羊は草を食べる。;羊[ひつじ]は草[くさ]を食[た]べる。;grass, weed;Sheep feed on grass.
+草;牛が草を食べている。;牛[うし]が草[くさ]を食[た]べている。;grass, weed;The cows are eating grass.
+草;このつる草は木にからみつきます。;このつる草[そう]は木[き]にからみつきます。;grass, weed;This vine winds around trees.
+草;牛は草を食べて生きている。;牛[うし]は草[くさ]を食[た]べて生[い]きている。;grass, weed;Cows live on grass.
+草;風が草をなびかせている。;風[かぜ]が草[くさ]をなびかせている。;grass, weed;The wind is blowing on the grass.
+中;ダイエット中です。;ダイエット中[ちゅう]です。;middle, in, inside, center;I'm on a diet.
+中;中に入れて。;中[なか]に入[い]れて。;middle, in, inside, center;Let me in.
+中;中に入れてください。;中[なか]に入[い]れてください。;middle, in, inside, center;Let me in.
+中;今ダイエット中なの。;今[こん]ダイエット中[ちゅう]なの。;middle, in, inside, center;I'm on a diet.
+首;おまえは首だ。;おまえは首[くび]だ。;neck;You're fired.
+首;今日首がいたいです。;今日[きょう]首[くび]がいたいです。;neck;My neck hurts today.
+首;トムは首になった。;トムは首[くび]になった。;neck;Tom was dismissed from his job.
+首;おどおどして首をたれた。;おどおどして首[くび]をたれた。;neck;He hung his head sheepishly.
+首;それが本当なら首をやる。;それが本当[ほんとう]なら首[くび]をやる。;neck;I'll be short if that's true.
+首;あなたの首は風前のともし火だ。;あなたの首[くび]は風前[ふうぜん]のともし火[ひ]だ。;neck;Your job hangs by a thread.
+本;それは本です。;それは本[ほん]です。;book, origin, real, main;That's a book.
+本;この本です。;この本[ほん]です。;book, origin, real, main;It's this book.
+本;その本は小さい。;その本[ほん]は小[ちい]さい。;book, origin, real, main;That book is small.
+本;あなたの本がここにあります。;あなたの本[ほん]がここにあります。;book, origin, real, main;Your book is here.
+本;あなたの本です。;あなたの本[ほん]です。;book, origin, real, main;It's your book.
+本;あの本は小さい。;あの本[ほん]は小[ちい]さい。;book, origin, real, main;That book is small.
+本;これは本です。;これは本[ほん]です。;book, origin, real, main;This is a book.
+本;これは君の本だよ。;これは君[きみ]の本[ほん]だよ。;book, origin, real, main;It's your book.
+本;ここに本がある。;ここに本[ほん]がある。;book, origin, real, main;There's a book here.
+本;本を下さい。;本[ほん]を下[くだ]さい。;book, origin, real, main;I'd like a book.
+本;この本は小さい。;この本[ほん]は小[ちい]さい。;book, origin, real, main;This book is small.
+本;この本は古い。;この本[ほん]は古[ふる]い。;book, origin, real, main;This book is old.
+本;あの本はあなたのですか？;あの本[ほん]はあなたのですか？;book, origin, real, main;Is that your book?
+七;ちょうど七時半です。;ちょうど七[なな]時半[じはん]です。;seven;It is just half past seven.
+七;一週間は七日です。;一[いち]週間[しゅうかん]は七[なな]日[にち]です。;seven;There are seven days in a week.
+三;三週間ぐらいです。;三[さん]週間[しゅうかん]ぐらいです。;three;About three weeks.
+三;トムには三人の兄がいます。;トムには三[さん]人[にん]の兄[あに]がいます。;three;Tom has three brothers.
+三;三日から五日で。;三[さん]日[にち]から五[ご]日[にち]で。;three;Maybe three to five days.
+三;チョークを三本ください。;チョークを三[さん]本[ほん]ください。;three;Give me three pieces of chalk.
+三;三日前、トムは去った。;三[さん]日[にち]前[まえ]、トムは去[]った。;three;Tom left three days ago.
+山;あれはラッシュモア山です。;あれはラッシュモア山[さん]です。;mountain;It's Mt. Rushmore.
+山;その山は人気がある。;その山[やま]は人気[にんき]がある。;mountain;That's a famous mountain.
+山;人生は山あり谷あり。;人生[じんせい]は山[やま]あり谷[たに]あり。;mountain;Life has its ups and downs.
+山;山の向こうに村がある。;山[やま]の向[む]こうに村[むら]がある。;mountain;There is a village over the mountain.
+山;その山は近づきやすい。;その山[やま]は近[ちか]づきやすい。;mountain;The mountain is easy of access.
+山;その山には木がない。;その山[やま]には木[き]がない。;mountain;The hill is bare of trees.
+山;あの山を見てごらん。;あの山[やま]を見[み]てごらん。;mountain;Look at that mountain.
+花;これは花ですか。;これは花[はな]ですか。;flower;Is this a flower?
+花;花はミツバチを引きつける。;花[はな]はミツバチを引[ひ]きつける。;flower;Flowers attract bees.
+花;花がしぼんだ。;花[はな]がしぼんだ。;flower;The flowers withered up.
+花;あの花は何ですか。;あの花[はな]は何[なに]ですか。;flower;What's that flower?
+花;なんとかわいい花だろう。;なんとかわいい花[はな]だろう。;flower;What pretty flowers!
+花;なんてきれいな花だ。;なんてきれいな花[はな]だ。;flower;What a beautiful flower!
+牛;牛は草を食べる。;牛[うし]は草[くさ]を食[た]べる。;cow;Cows eat grass.
+牛;あの牛を見なさい。;あの牛[うし]を見[み]なさい。;cow;Look at those cattle.
+牛;牛が草を食べている。;牛[うし]が草[くさ]を食[た]べている。;cow;The cows are eating grass.
+牛;牛は草を食べて生きている。;牛[うし]は草[くさ]を食[た]べて生[い]きている。;cow;Cows live on grass.
+牛;あれは牛ですか水牛ですか。;あれは牛[うし]ですか水牛[すいぎゅう]ですか。;cow;Is that a cow or a buffalo?
+公;メアドからしてアメ公か？;メアドからしてアメ公[おおやけ]か？;public;Looking at his email address, would you say he's American?
+公;このニュースはまだ公にしてほしくない。;このニュースはまだ公[おおやけ]にしてほしくない。;public;I don't want this news to be made public yet.
+戸;戸にロックをかけなさい。;戸[と]にロックをかけなさい。;door;Lock the door!
+竹;竹は風でたわむ。;竹[たけ]は風[かぜ]でたわむ。;bamboo;Bamboo bends before the wind.
+竹;林に竹が目立つ。;林[はやし]に竹[たけ]が目立[めだ]つ。;bamboo;Bamboo stands out in the woods.
+竹;にわに竹が生えている。;にわに竹[たけ]が生[は]えている。;bamboo;There's bamboo growing in the garden.
+竹;竹が雪のおもみでたわんでいる。;竹[たけ]が雪[ゆき]のおもみでたわんでいる。;bamboo;The bamboo is bending with the weight of the snow.
+外;外に出ろ。;外[そと]に出[しゅつ]ろ。;outside;Get out.
+外;外へ出たい。;外[そと]へ出[で]たい。;outside;I feel like going out.
+外;外はまだ明るい。;外[そと]はまだ明[あか]るい。;outside;It is still light outside.
+外;外は、夏みたいだよ。;外[そと]は、夏[なつ]みたいだよ。;outside;It's like summer outside.
+外;ごみを外に出しなさい。;ごみを外[そと]に出[だ]しなさい。;outside;Put the garbage outside.
+外;外のテーブルがいいのですが。;外[そと]のテーブルがいいのですが。;outside;Could we have a table outside?
+外;外はどんよりしている。;外[そと]はどんよりしている。;outside;It's very gray outside.
+外;今夜は外で食べましょう。;今夜[こにゃ]は外[そと]で食[た]べましょう。;outside;Let's eat out tonight.
+他;ほかはすべてすばらしい。;ほかはすべてすばらしい。;other;All else is fine.
+他;他にご用は。;他[た]にご用[よう]は。;other;Did you want anything else?
+他;それをするより他はない。;それをするより他[た]はない。;other;I have nothing better to do.
+他;他に何かいりますか。;他[た]に何[なに]かいりますか。;other;Need anything else?
+他;他に何かありますか。;他[た]に何[なに]かありますか。;other;Did you want anything else?
+他;何か他の言い方はある？;何[なに]か他[た]の言い方[いいかた]はある？;other;Can it be phrased in another way?
+他;他に何かご用がありますか。;他[た]に何[なに]かご用[よう]がありますか。;other;Anything else, sir?
+他;他のものがありますか。;他[た]のものがありますか。;other;Do you have any others?
+他;他に何か。;他[た]に何[なに]か。;other;Anything else?
+他;ほかのを見せてください。;ほかのを見[み]せてください。;other;Please show me another one.
+他;他には考えられない。;他[た]には考[かんが]えられない。;other;I can't think otherwise.
+他;他に手がなかったのだ。;他[た]に手[て]がなかったのだ。;other;I had no other choice.
+他;ほかの女の子たちはどこにいるの。;ほかの女の子[おんなのこ]たちはどこにいるの。;other;Where are the other girls?
+皮;このバッグは皮でできています。;このバッグは皮[かわ]でできています。;skin;This bag is made of leather.
+皮;リンゴを食べる前に皮をむきなさい。;リンゴを食[た]べる前[まえ]に皮[かわ]をむきなさい。;skin;Peel the apple before you eat it.
+皮;よい皮は何年ももつものだ。;よい皮[かわ]は何[なん]年[ねん]ももつものだ。;skin;Good leather will wear for years.
+皮;皮のショルダーバッグをさがしているのですが。;皮[かわ]のショルダーバッグをさがしているのですが。;skin;I'm looking for a leather shoulder bag.
+皮;少年は木の皮をはいだ。;少年[しょうねん]は木[き]の皮[かわ]をはいだ。;skin;The boy stripped a tree of the bark.
+母;こちらは母です。;こちらは母[はは]です。;mother, mom, mum;This is my mother.
+母;明日は母の日です。;明日[あした]は母[はは]の日[ひ]です。;mother, mom, mum;Tomorrow is Mother's Day.
+皿;その皿は、プラスチックで出来ている。;その皿[さら]は、プラスチックで出来[でき]ている。;plate;The plate is made of plastic.
+糸;この糸はすぐもつれる。;この糸[いと]はすぐもつれる。;thread;This thread tangles easily.
+糸;長い糸はからまりやすい。;長[なが]い糸[いと]はからまりやすい。;thread;A long piece of thread easily becomes tangled up.
+糸;赤い糸と白い糸、どっちがいいですか。;赤[あか]い糸[いと]と白[しろ]い糸[いと]、どっちがいいですか。;thread;Which is better, red thread or white thread?
+耳;耳がほてる。;耳[みみ]がほてる。;ear;My ears burn.
+耳;耳で見える。;耳[みみ]で見[み]える。;ear;See with your ears.
+耳;ウサギは耳が長い。;ウサギは耳[みみ]が長[なが]い。;ear;Rabbits have long ears.
+耳;全身すべてが耳だ。;全身[ぜんしん]すべてが耳[みみ]だ。;ear;I am all ears.
+耳;うさぎの耳は長い。;うさぎの耳[みみ]は長[なが]い。;ear;A rabbit has long ears.
+耳;耳がかゆいのです。;耳[みみ]がかゆいのです。;ear;I have an itch in my ear.
+耳;耳がかぶれています。;耳[みみ]がかぶれています。;ear;I have an ear infection.
+耳;耳は出しますか。;耳[みみ]は出[だ]しますか。;ear;Would you like your ears to show?
+町;ウェストハンプトンの町へようこそ。;ウェストハンプトンの町[まち]へようこそ。;town;Welcome to the town of Westhampton.
+町;町を通っていく。;町[まち]を通[と]っていく。;town;Pass along the street.
+町;町は村よりも大きい。;町[まち]は村[むら]よりも大[おお]きい。;town;Towns are larger than villages.
+町;この町は活気がない。;この町[まち]は活気[かっき]がない。;town;This town isn't lively.
+町;町に来ましたか？;町[まち]に来[き]ましたか？;town;Did you come to town?
+町;その町は人口が多い。;その町[まち]は人口[じんこう]が多[おお]い。;town;The city has a large population.
+町;この町から立ち去りなさい。;この町[���ち]から立ち去[たちさ]りなさい。;town;Get away from this city.
+虫;メアリーは本の虫です。;メアリーは本[ほん]の虫[むし]です。;insect, bug;Mary is a bookworm.
+虫;君は本の虫だね。;君[きみ]は本[ほん]の虫[むし]だね。;insect, bug;You're a bookworm.
+虫;それは虫がよすぎるよ。;それは虫[むし]がよすぎるよ。;insect, bug;That's asking too much.
+虫;虫がよすぎる。;虫[むし]がよすぎる。;insect, bug;You're taking a lot for granted.
+虫;虫の知らせがあった。;虫[むし]の知[し]らせがあった。;insect, bug;I had a feeling this might happen.
+虫;虫の音がきこえます。;虫[むし]の音[おと]がきこえます。;insect, bug;I can hear the chirping of insects.
+虫;その虫はまだ生きている。;その虫[むし]はまだ生[い]きている。;insect, bug;The bug is still alive.
+虫;虫ですら向かってくるものだ。;虫[むし]ですら向[]かってくるものだ。;insect, bug;Even a worm will turn.
+同;バッハとヘンデルは同時代人でした。;バッハとヘンデルは同[どう]時代[じだい]人[じん]でした。;same;Bach and Handel were contemporaries.
+同;シェイクスピアはマーローと同時代人だった。;シェイクスピアはマーローと同[どう]時代[じだい]人[じん]だった。;same;Shakespeare was a contemporary of Marlowe.
+同;スコットはバイロンと同時代の人であった。;スコットはバイロンと同[どう]時代[じだい]の人[ひと]であった。;same;Scott was a contemporary of Byron.
+万;一千万円くらいかな？;一[いち]千[せん]万[まん]円[えん]くらいかな？;ten thousand;Is it about ten million yen?
+声;あれはババの声だ。;あれはババの声[こえ]だ。;voice;It's the voice of an old woman.
+声;ケリーの声は、よく通る。;ケリーの声[こえ]は、よく通[とお]る。;voice;Kelly's voice carries well.
+声;君の声はよく通る。;君[きみ]の声[こえ]はよく通[とお]る。;voice;Your voice carries well.
+声;大きな声でどなるな。;大[おお]きな声[こえ]でどなるな。;voice;Don't raise your voice at me.
+声;ベティはよい声をしています。;ベティはよい声[こえ]をしています。;voice;Betty has a sweet voice.
+声;正はやさしい声をしている。;正[せい]はやさしい声[こえ]をしている。;voice;Tadashi has a soft voice.
+雨;雨らしい。;雨[あめ]らしい。;rain;It feels like rain.
+雨;また雨だ。;また雨[あめ]だ。;rain;It's raining again!
+雨;何となく雨みたいだ。;何[なん]となく雨[あめ]みたいだ。;rain;It looks like rain.
+雨;雨もようだ。;雨[あめ]もようだ。;rain;It looks rainy.
+雨;雨が止んだ。;雨[あめ]が止[や]んだ。;rain;It has stopped raining.
+雨;雨は止んだ。;雨[あめ]は止[や]んだ。;rain;It has stopped raining.
+雨;ひょっとしたら明日は雨かも。;ひょっとしたら明日[あした]は雨[あめ]かも。;rain;Perhaps it will rain tomorrow.
+雨;雨になるようです。;雨[あめ]になるようです。;rain;It looks like rain.
+雨;もう雨はたくさんだ。;もう雨[あめ]はたくさんだ。;rain;We have had enough of rain.
+雨;雨に会いそうだ。;雨[あめ]に会[あ]いそうだ。;rain;We are in for rain.
+雨;ところにより雨。;ところにより雨[あめ]。;rain;It rains in some places.
+雨;明日は雨かしら。;明日[あした]は雨[あめ]かしら。;rain;I wonder if it will rain tomorrow.
+雨;やっと雨がやんだ。;やっと雨[あめ]がやんだ。;rain;The rain stopped at last.
+空;空は青い。;空[そら]は青[あお]い。;sky;The sky is blue.
+空;空は星でいっぱいだ。;空[そら]は星[ほし]でいっぱいだ。;sky;The sky is full of stars.
+空;なんて青い空だろう。;なんて青[あお]い空[そら]だろう。;sky;How blue the sky is!
+空;なんと空が青いのだろう。;なんと空[そら]が青[あお]いのだろう。;sky;How blue the sky is!
+空;空はまっくらだった。;空[そら]はまっくらだった。;sky;The sky was completely dark.
+空;今夜は空は星で明るい。;今夜[こにゃ]は空[そら]は星[ほし]で明[あか]るい。;sky;The heavens are bright with stars tonight.
+空;空が明るくなった。;空[そら]が明[あか]るくなった。;sky;The sky has brightened.
+車;車が青い。;車[くるま]が青[あお]い。;car;The car is blue.
+車;これは車です。;これは車[くるま]です。;car;This is a car.
+車;この車はわたしのだ。;この車[くるま]はわたしのだ。;car;This car is mine.
+車;これらの車は大きい。;これらの車[くるま]は大[おお]きい。;car;These cars are big.
+車;車がほしいですか。;車[くるま]がほしいですか。;car;Do you want a car?
+車;車で行こう。;車[くるま]で行[い]こう。;car;Let's go by car.
+車;これはあなたの車ですか。;これはあなたの車[くるま]ですか。;car;Is this your car?
+九;もう九時です。;もう九[きゅう]時[じ]です。;nine;It is already nine o'clock.
+九;九引く六はいくつですか。;九[きゅう]引[ひ]く六[ろく]はいくつですか。;nine;How many is nine minus six?
+九;九時に来ていただきたいのですが。;九[きゅう]時[じ]に来[き]ていただきたいのですが。;nine;I'd like you to come at nine.
+父;父はビジネスマンです。;父[ちち]はビジネスマンです。;father, dad;My father is a businessman.
+父;父は家にいる。;父[ちち]は家[いえ]にいる。;father, dad;My father is in.
+父;父は元気です。;父[ちち]は元気[げんき]です。;father, dad;My father is in good health.
+父;父は家にいません。;父[ちち]は家[いえ]にいません。;father, dad;Dad isn't home.
+父;父はタバコをやめた。;父[ちち]はタバコをやめた。;father, dad;Father gave up cigarettes.
+赤;その家は赤レンガづくりです。;その家[いえ]は赤[あか]レンガづくりです。;red;The house is built of red bricks.
+赤;赤は白をバックにするとよく目立つ。;赤[あか]は白[しろ]をバックにするとよく目立[めだ]つ。;red;Red shows up well against a white background.
+校;ボブのお父さんは女子校で教えています。;ボブのお父[とう]さんは女子[じょし]校[こう]で教[おし]えています。;school;Bob's father teaches at a girls' school.
+用;生理用ナプキンはどこにありますか。;生理[せいり]用[よう]ナプキンはどこにありますか。;task, use;Where are the sanitary napkins?
+村;町は村よりも大きい。;町[まち]は村[むら]よりも大[おお]きい。;village;Towns are larger than villages.
+村;山の向こうに村がある。;山[やま]の向[む]こうに村[むら]がある。;village;There is a village over the mountain.
+名;その人の名を思い出せない。;その人[ひと]の名[な]を思い出[おもいだ]せない。;name, famous;His name eludes me.
+八;午後八時です。;午後[ごご]八[はち]時[じ]です。;eight;It's 8 P.M.
+八;夜の八時です。;夜[よる]の八[はち]時[じ]です。;eight;It's eight o'clock at night.
+八;とにかく一か八かやってみる。;とにかく一[いち]か八[はち]かやってみる。;eight;Anyway, I'll take a chance.
+八;そのハイキングは八時間もかかるでしょう。;そのハイキングは八[はち]時間[じかん]もかかるでしょう。;eight;The hike will take at least eight hours.
+分;オーブンで何分？;オーブンで何[なん]分[ふん]？;part, minute, separate;How long should we leave it in the oven?
+分;これが君の分のケーキだよ。;これが君[きみ]の分[ぶん]のケーキだよ。;part, minute, separate;Here is your share of the cake.
+主;日本人は主に米を食べる。;日本人[にっぽんじん]は主[おも]に米[こめ]を食[た]べる。;master;The Japanese live mainly on rice.
+主;学校に行く主な理由は何ですか。;学校[がっこう]に行[い]く主[おも]な理由[りゆう]は何[なに]ですか。;master;What is the principle reason for going to school?
+見;見たか？;見[み]たか？;see;Have you watched it?
+見;テレビを見ましょう。;テレビを見[み]ましょう。;see;Let's watch TV.
+見;犬を見た。;犬[いぬ]を見[み]た。;see;I saw the dog.
+見;ここでテレビを見なさい。;ここでテレビを見[み]なさい。;see;Watch TV here.
+見;見してくれ。;見[み]してくれ。;see;Gimme a look-see.
+見;何を見てるの？;何[なに]を見[み]てるの？;see;What are you looking at?
+見;あなたはテレビを見ますか。;あなたはテレビを見[み]ますか。;see;Do you watch television?
+見;辺りをよく見なさい。;辺[あた]りをよく見[み]なさい。;see;Look about you.
+見;トムはテレビを見すぎます。;トムはテレビを見[み]すぎます。;see;Tom watches too much television.
+見;まっすぐ前方を見なさい。;まっすぐ前方[ぜんぽう]を見[み]なさい。;see;Look straight ahead.
+日;ひどい日だった。;ひどい日[ひ]だった。;sun, day;It was a terrible day.
+日;日が出ている。;日[ひ]が出[で]ている。;sun, day;The sun is up.
+日;明日という日もある。;明日[あした]という日[ひ]もある。;sun, day;Tomorrow is another day.
+日;天気のよい日です。;天気[てんき]のよい日[ひ]です。;sun, day;It's a nice day.
+日;明日は母の日です。;明日[あした]は母[はは]の日[ひ]です。;sun, day;Tomorrow is Mother's Day.
+日;その日は必ずやってくる。;その日[ひ]は必[かなら]ずやってくる。;sun, day;That day shall come.
+日;今日はすばらしい日だ。;今日[きょう]はすばらしい日[ひ]だ。;sun, day;It's a lovely day today.
+日;風の強い日です。;風[かぜ]の強[つよ]い日[ひ]です。;sun, day;It's a windy day.
+日;今日はどんな日でしたか。;今日[きょう]はどんな日[ひ]でしたか。;sun, day;How was your day?
+日;四月一日です。;四月[しがつ]一[いち]日[にち]です。;sun, day;It's April first.
+方;次の方どうぞ。;次[つぎ]の方[ほう]どうぞ。;direction, way;Next person, please.
+方;こちらの方がきれいだ。;こちらの方[ほう]がきれいだ。;direction, way;This one is prettier.
+方;こちらのほうがずっといい。;こちらのほうがずっといい。;direction, way;This is better by far.
+方;この本の方が小さい。;この本[ほん]の方[ほう]が小[ちい]さい。;direction, way;This book is smaller.
+方;たばこやめた方がいいよ。;たばこやめた方[ほう]がいいよ。;direction, way;You should quit smoking.
+方;ここでしゃべらない方がいい。;ここでしゃべらない方[ほう]がいい。;direction, way;You should not talk here.
+方;どっちの方が高いんですか？;どっちの方[ほう]が高[たか]いんですか？;direction, way;Which one is more expensive?
+方;あの方にくれぐれもよろしく。;あの方[ほう]にくれぐれもよろしく。;direction, way;Give him my best regards.
+気;気にするなよ。;気[き]にするなよ。;energy, spirit;Never mind.
+気;うしろめたい気がする。;うしろめたい気[き]がする。;energy, spirit;I feel guilty.
+気;気を失いました。;気[き]を失[うしな]いました。;energy, spirit;I fainted.
+気;気のせいだよ。;気[き]のせいだよ。;energy, spirit;It's just your imagination.
+気;ジョンは気がいい。;ジョンは気[き]がいい。;energy, spirit;John is easy to please.
+気;気を付けてね。;気[き]を付[つ]けてね。;energy, spirit;Take care.
+気;スリに気をつけて。;スリに気[き]をつけて。;energy, spirit;Beware of pickpockets.
+気;足元に気をつけて。;足元[あしもと]に気[き]をつけて。;energy, spirit;Watch your step.
+気;そんなの気にしないで。;そんなの気[き]にしないで。;energy, spirit;Don't worry about that.
+気;それはあなたの気のせいだけです。;それはあなたの気[き]のせいだけです。;energy, spirit;It is just your imagination.
+上;マントルピースの上にある。;マントルピースの上[うえ]にある。;above, up, over;It's on the mantelpiece.
+上;もっと上を向きなさい。;もっと上[うえ]を向[む]きなさい。;above, up, over;Look up more.
+上;テーブルの上にコップがある。;テーブルの上[うえ]にコップがある。;above, up, over;There is a glass on the table.
+上;テーブルの上にカップがある。;テーブルの上[うえ]にカップがある。;above, up, over;There is a cup on the table.
+上;テーブルの上にオレンジがある。;テーブルの上[うえ]にオレンジがある。;above, up, over;There is an orange on the table.
+上;その上にすわるな。;その上[うえ]にすわるな。;above, up, over;Don't sit upon it.
+上;テーブルの上にラジオがあります。;テーブルの上[うえ]にラジオがあります。;above, up, over;There is a radio on the table.
+上;テーブルの上にメロンが一つあります。;テーブルの上[うえ]にメロンが一[ひと]つあります。;above, up, over;There is a melon on the table.
+北;風見は北をさしている。;風見[かざみ]は北[きた]をさしている。;north;The weather vane points north.
+北;その町はロンドンのすぐ北にある。;その町[まち]はロンドンのすぐ北[きた]にある。;north;The town lies just above London.
+北;バスは北へ向かっていた。;バスは北[きた]へ向[]かっていた。;north;The bus was heading north.
+北;船はまっすぐ北に向かっている。;船[ふね]はまっすぐ北[きた]に向[]かっている。;north;The ship is bearing due north.
+北;古い教会はその町の北にある。;古[ふる]い教会[きょうかい]はその町[まち]の北[きた]にある。;north;The old church stands north of the town.
+北;北アメリカでいちばん高い山は何ですか。;北[きた]アメリカでいちばん高[たか]い山[やま]は何[なに]ですか。;north;What is the highest mountain in North America?
+一;一人はいやだ。;一[いち]人[にん]はいやだ。;one;I dislike being alone.
+一;もう十一時よ。;もう十[じゅう]一[いち]時[じ]よ。;one;It's already 11.
+一;一メートルは百センチメートルです。;一[いち]メートルは百[ひゃく]センチメートルです。;one;A meter is 100 centimeters.
+一;一の前にはゼロです。;一[いち]の前[まえ]にはゼロです。;one;Zero is what comes before one.
+一;マイクはブレーンの一人だ。;マイクはブレーンの一[いち]人[にん]だ。;one;Mike is one of our brains.
+一;トムは今一人ではない。;トムは今[いま]一[いち]人[にん]ではない。;one;Tom isn't lonely now.
+一;ワインを一本ください。;ワインを一[いち]本[ほん]ください。;one;Give me a bottle of wine.
+一;よい一日をね。;よい一[いち]日[にち]をね。;one;Have a nice day.
+一;四月一日です。;四月[しがつ]一[いち]日[にち]です。;one;It's April first.
+一;ロゼを一本ください。;ロゼを一[いち]本[ほん]ください。;one;A bottle of rose, please.
+一;一人で出来るよ。;一[いち]人[にん]で出来[でき]るよ。;one;I can do it by myself!
+東;その市はロンドンの東にある。;その市[し]はロンドンの東[ひがし]にある。;east;The city lies east of London.
+東;月は東から上る。;月[つき]は東[ひがし]から上[のぼ]る。;east;The moon rises in the east.
+東;この町は西も東も分かりません。;この町[まち]は西[にし]も東[ひがし]も分[わ]かりません。;east;I'm quite a stranger in this town.
+礼;ぶつぶつと礼を言った。;ぶつぶつと礼[れい]を言[]った。;thanks;He grunted his thanks.
+市;その市はロンドンの東にある。;その市[し]はロンドンの東[ひがし]にある。;city;The city lies east of London.
+市;この国には多くの市がある。;この国[くに]には多[おお]くの市[し]がある。;city;There are many cities in this country.
+市;ニューヨーク市の人口はどのくらいですか。;ニューヨーク市[し]の人口[じんこう]はどのくらいですか。;city;How large is the population of New York City?
+市;そこから市全体が見えます。;そこから市[し]全体[ぜんたい]が見[み]えます。;city;You can see the whole city from here.
+市;この市の人口はどのくらいですか。;この市[し]の人口[じんこう]はどのくらいですか。;city;How large is the population of this city?
+市;当市にはたくさんの学校がある。;当[とう]市[し]にはたくさんの学校[がっこう]がある。;city;There are a great number of schools in this city.
+何;何？;何[なに]？;what;What?
+何;何について？;何[なに]について？;what;About what?
+何;じゃ何？;じゃ何[なに]？;what;Then what?
+何;だから何なの？;だから何[なに]なの？;what;So what?
+何;だから何？;だから何[なに]？;what;And now, what?
+何;何これ？;何[なに]これ？;what;What's this?
+何;あれ何？;あれ何[なに]？;what;What's that?
+何;これ何？;これ何[なに]？;what;What's this?
+何;何ですか。;何[なに]ですか。;what;What is it?
+何;何あれはですか？;何[なに]あれはですか？;what;What is that?
+何;何のつもりだ？;何[なに]のつもりだ？;what;What's the big idea?
+何;あれは何ですか。;あれは何[なに]ですか。;what;What is that?
+何;これは何ですか。;これは何[なに]ですか。;what;What's this?
+何;ユーフォーって何？;ユーフォーって何[なに]？;what;What is a UFO?
+何;何があったの。;何[なに]があったの。;what;What happened?
+何;なぞなぞか何かかい？;なぞなぞか何[なに]かかい？;what;Is that a riddle?
+何;それは何ですか。;それは何[なに]ですか。;what;What is that?
+台;プラチナの台にダイヤをしつらえる。;プラチナの台[だい]にダイヤをしつらえる。;machine;Set a diamond in a platinum mounting.
+力;力が出ません。;力[ちから]が出[で]ません。;power, strength;I feel lethargic.
+字;君は字がうまいね。;君[きみ]は字[じ]がうまいね。;letter, character, symbol;You write very neatly, don't you?
+字;字と字の間の空きをもっと広くしなさい。;字[じ]と字[じ]の間[ま]の空[あ]きをもっと広[ひろ]くしなさい。;letter, character, symbol;Leave more space between characters.
+弟;弟のです。;弟[おとうと]のです。;younger brother, little brother;It belongs to my brother.
+弟;弟はテレビを見ます。;弟[おとうと]はテレビを見[み]ます。;younger brother, little brother;My younger brother watches TV.
+弟;弟のことなんかほっときなさい。;弟[おとうと]のことなんかほっときなさい。;younger brother, little brother;Leave him alone.
+弟;弟もそうです。;弟[おとうと]もそうです。;younger brother, little brother;And so does my brother.
+弟;トムおじさんは母の弟だ。;トムおじさんは母[はは]の弟[おとうと]だ。;younger brother, little brother;Uncle Tom is my mother's brother.
+男;この男は死んでいる。;この男[おとこ]は死[し]んでいる。;man;This man is dead.
+男;君はなかなかの男だな。;君[きみ]はなかなかの男[おとこ]だな。;man;You are quite a man.
+男;あの男ももう上がったりだ。;あの男[おとこ]ももう上[あ]がったりだ。;man;He is done for.
+男;五木ひろしは糸目の男。;五木[いつき]ひろしは糸目[いとめ]の男[おとこ]。;man;Hiroshi Itsuki has slits for eyes.
+男;君はなんという男だ。;君[きみ]はなんという男[おとこ]だ。;man;What a man you are!
+今;今、行くわ。;今[いま]、行[い]くわ。;now;I'm coming.
+今;今、何時ですか。;今[いま]、何[なん]時[じ]ですか。;now;What is the time now?
+今;今、とてもおなかがすいている。;今[いま]、とてもおなかがすいている。;now;I'm very hungry now.
+世;光が世にやって来た。;光[ひかり]が世[よ]にやって来[き]た。;generation;Light has come into the world.
+世;この方はもとから世におられ。;この方[ほう]はもとから世[よ]におられ。;generation;He was in the world.
+世;世はこの方を知らなかった。;世[よ]はこの方[ほう]を知[し]らなかった。;generation;The world did not recognize him.
+形;それは日本人形だ。;それは日本人[にっぽんじん]形[がた]だ。;shape, appearance, form;That is a Japanese doll.
+形;りんごは丸い形をしている。;りんごは丸[まる]い形[かたち]をしている。;shape, appearance, form;An apple is round in shape.
+形;これらのクッキーは星の形をしている。;これらのクッキーは星[ほし]の形[かたち]をしている。;shape, appearance, form;These cookies are star-shaped.
+年;もう年だよ。;もう年[とし]だよ。;year;I feel my age.
+年;よいお年を。;よいお年[とし]を。;year;Happy New Year!
+年;何年に生まれましたか？;何[なん]年[ねん]に生[う]まれましたか？;year;What year were you born?
+毛;毛先をそろえますか。;毛[け]先[さき]をそろえますか。;fur, hair;Do you want a trim?
+毛;犬の毛はいわばセーターだ。;犬[いぬ]の毛[け]はいわばセーターだ。;fur, hair;The dog's hair is, as it were, a sweater.
+毛;ネコの毛がさかだった。;ネコの毛[け]がさかだった。;fur, hair;The cat's fur stood on end.
+毛;体は茶色の毛をしていた。;体[からだ]は茶色[ちゃいろ]の毛[け]をしていた。;fur, hair;His body was covered with brown fur.
+兄;兄がいます。;兄[あに]がいます。;older brother, big brother, elder brother;I have an older brother.
+兄;兄はスケートが上手だ。;兄[あに]はスケートが上手[じょうず]だ。;older brother, big brother, elder brother;My brother is a good skater.
+兄;トムには三人の兄がいます。;トムには三[さん]人[にん]の兄[あに]がいます。;older brother, big brother, elder brother;Tom has three brothers.
+兄;フアンには兄がいません。;フアンには兄[あに]がいません。;older brother, big brother, elder brother;Juan doesn't have a brother.
+兄;兄はテレビを見ている。;兄[あに]はテレビを見[み]ている。;older brother, big brother, elder brother;My older brother is watching TV.
+元;それじゃあ元も子もないじゃないか。;それじゃあ元[もと]も子[こ]もないじゃないか。;origin;Then that means I lost everything.
+元;元どおりにしまってください。;元[もと]どおりにしまってください。;origin;Put it back where it was.
+元;いったんしたことは元どおりにならない。;いったんしたことは元[もと]どおりにならない。;origin;What is done cannot be undone.
+元;元も子もなくしてしまった。;元[もと]も子[こ]もなくしてしまった。;origin;I have lost both principal and interest.
+十;トムには十円ハゲがある。;トムには十[じゅう]円[えん]ハゲがある。;ten;Tom has a bald spot.
+十;もう十一時よ。;もう十[じゅう]一[いち]時[じ]よ。;ten;It's already 11.
+十;あなたは十才ですか。;あなたは十[じゅう]才[さい]ですか。;ten;Are you ten years old?
+十;十時ごろですか。;十[じゅう]時[じ]ごろですか。;ten;Is it about ten o'clock?
+早;少しも早すぎることはない。;少[すこ]しも早[はや]すぎることはない。;early, fast, quick;We're not a bit too soon.
+早;そういうことは、いくら早く学んでも、早すぎることはない。;そういうことは、いくら早[はや]く学[まな]んでも、早[はや]すぎることはない。;early, fast, quick;You cannot learn such a thing too soon.
+足;足がだるいです。;足[あし]がだるいです。;foot, leg, sufficient;My legs feel heavy.
+足;妹は足が長い。;妹[いもうと]は足[あし]が長[なが]い。;foot, leg, sufficient;My sister has long legs.
+足;足がしびれている。;足[あし]がしびれている。;foot, leg, sufficient;I have feeling in my legs.
+足;足にやけどをした。;足[あし]にやけどをした。;foot, leg, sufficient;I burnt myself on the leg.
+足;また足がしびれた。;また足[あし]がしびれた。;foot, leg, sufficient;My foot's asleep again!
+多;金が多すぎる？;金[きむ]が多[おお]すぎる？;many, much, lots of;Too much money?
+多;デメリットが多すぎます。;デメリットが多[おお]すぎます。;many, much, lots of;It has too many disadvantages.
+先;この先どうなるの。;この先[さき]どうなるの。;previous, ahead, past, former;What will come?
+先;ゴールはまだ先だ。;ゴールはまだ先[さき]だ。;previous, ahead, past, former;The goal is still some distance away.
+先;先は長いなあ。;先[さき]は長[なが]いなあ。;previous, ahead, past, former;The way you are going is long!
+先;白先黒死。;白[しろ]先[さき]黒[くろ]死[し]。;previous, ahead, past, former;White to play and win.
+先;まだ先は長い。;まだ先[さき]は長[なが]い。;previous, ahead, past, former;We have a long way to go.
+先;どちらが先に行くのですか。;どちらが先[さき]に行[い]くのですか。;previous, ahead, past, former;Where are you going?
+先;毛先をそろえますか。;毛[け]先[さき]をそろえますか。;previous, ahead, past, former;Do you want a trim?
+先;お金を先に入れるのですか。;お金[かね]を先[さき]に入[い]れるのですか。;previous, ahead, past, former;Should I insert coins first?
+先;ショッピングセンターは一マイル先です。;ショッピングセンターは一[いち]マイル先[さき]です。;previous, ahead, past, former;The shopping center is one mile ahead.
+冬;もうすぐ冬だ。;もうすぐ冬[ふゆ]だ。;winter;Soon it'll be winter.
+冬;冬は、もうすぐだ。;冬[ふゆ]は、もうすぐだ。;winter;Winter is coming soon.
+冬;冬は去った。;冬[ふゆ]は去[]った。;winter;Winter has gone.
+冬;まもなく冬だ。;まもなく冬[ふゆ]だ。;winter;It will be winter before long.
+冬;冬のイチゴは高い。;冬[ふゆ]のイチゴは高[たか]い。;winter;Strawberries are expensive in the winter.
+冬;冬は去りました。;冬[ふゆ]は去[さ]りました。;winter;Winter is gone.
+冬;冬が近づきつつある。;冬[ふゆ]が近[ちか]づきつつある。;winter;Winter is drawing on.
+冬;冬が近づいている。;冬[ふゆ]が近[ちか]づいている。;winter;Winter is coming on.
+冬;冬が近づいてくる。;冬[ふゆ]が近[ちか]づいてくる。;winter;Winter is coming on.

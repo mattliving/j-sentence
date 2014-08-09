@@ -2,6 +2,8 @@ var Q            = require("q");
 var _            = require("lodash");
 var cheerio      = require("cheerio");
 var fs           = require("fs");
+var readir       = require('recursive-readdir');
+var path         = require("path");
 var utils        = require("./utils");
 var wanakana     = require("./wanakana.min");
 var wkApiWrapper = require("./wk");
@@ -15,9 +17,98 @@ utils.readFromFile("sentences.json").done(function(sentences) {
   //   findSentences(sentences, createKanjiMaps(kanjis));
   // });
   utils.readFromFile("kanjis.json").done(function(kanjis) {
-    findSentences(sentences, createKanjiMaps(kanjis));
+    // var sentencesByLevelMap = findSentences(sentences, createKanjiMaps(kanjis));
+    // var allSentences = _.reduce(sentencesByLevelMap, function(result, array, key) {
+    //   return result.concat(array);
+    // }, []);
+
+    // createAnkiTextFile(allSentences);
+
+    readir('jdic_audio', function (err, files) {
+      var map = mapAudioFiles(files);
+      fs.writeFile("audio.json", JSON.stringify(map, null, 4), function(err) {
+        if (err) {
+          console.error(err);
+          return;
+        }
+      });
+    });
   });
 });
+
+function mapAudioFiles(files) {
+
+  // files = files.map(function(file) {
+  //   return file.replace(".mp3", "").split(" - ");
+  // });
+
+  var map = {};
+  _.map(files, function(file) {
+
+    file = file.replace(/jdic_audio\/jdic_audio_\d{1,2}\//, "").replace(".mp3", "").split(" - ");
+    if (!_.isUndefined(map[file[0]])) {
+      map[file[0]].push(file[1]);
+    }
+    else {
+      map[file[0]] = [file[1]];
+    }
+  });
+
+  return map;
+}
+
+/* One file per level, or one file for all levels
+   Needs option to include multiple sentences per character or only the first/best one */
+function createAnkiTextFile(sentenceObjects, fields) {
+
+  var fields = {
+    kanjiOne: "",
+    kanjiTwo: "",
+    furigana: "", // furigana for the kanji
+    expression: "", // sentence in japanese without furigana
+    reading: "", // sentence in japanese with furigana
+    meaning: "", // meaning of this individual kanji
+    sentenceEnglish: "" // the english translation of the sentence
+  };
+
+  // Blank the file
+  fs.writeFile("anki-sentences.txt", "", function(err) {
+    if (err) {
+      console.error(err)
+      return;
+    }
+  });
+
+  _.map(sentenceObjects, function(sentenceObject) {
+
+    fields.kanjiOne = sentenceObject.character;
+    fields.meaning  = sentenceObject.meaning;
+    fields.furigana = sentenceObject.furigana || "";
+
+    _.each(sentenceObject.sentences, function(sentence) {
+
+      fields.expression      = stripFurigana(sentence.jp);
+      fields.reading         = sentence.jp;
+      fields.sentenceEnglish = sentence.en;
+      writeLineToAnkiFile("anki-sentences.txt", fields);
+    });
+  });
+}
+
+function writeLineToAnkiFile(fileName, fields) {
+
+  fields = _.mapValues(fields, function(field) {
+    return field.length ? field + ";" : "";
+  });
+  var string = [fields.kanjiOne, fields.kanjiTwo, fields.furigana, fields.expression, fields.reading, fields.meaning, fields.sentenceEnglish].join("");
+  if (string.substring(string.length - 1) === ";") string = string.slice(0, -1);
+  fs.appendFile(fileName, string + "\n", function(err) {
+    if (err) {
+      console.error(err)
+      return;
+    }
+  });
+}
 
 // Sentences is a map from character to array of sentences containing that character
 function findSentences(sentences, kanjiMap) {
@@ -67,26 +158,7 @@ function findSentences(sentences, kanjiMap) {
     });
   });
 
-  console.log(kanjiMap.srsToKanji);
-  console.log(sentenceTotal);
-
-  // var gurued = {},
-  //     filtered = [];
-
-  // sentences.forEach(function(sentence) {
-
-  //   var kanjis = [];
-  //   for (var i = 0, len = sentence.length; i < len; i++) {
-  //     // add unknown kanji
-  //     if (typeof gurued[sentence[i]] === "undefined") {
-  //       kanjis.push(sentence[i]);
-  //     }
-  //   }
-  //   // only include sentences with 2 or less known kanji
-  //   if (kanjis.length <= 2) {
-  //     filtered.concat(kanjis);
-  //   }
-  // });
+  return kanjiMap.srsToKanji;
 }
 
 function scraper() {
@@ -124,9 +196,8 @@ function scrapeSentences(kanjiList) {
 
   var promises = utils.mapSeries(kanjiList, function(kanji, index) {
 
-    var random = _.random(2, 10) * 1000;
-
-    var deferred = Q.defer(),
+    var random = _.random(2, 10) * 1000,
+        deferred = Q.defer(),
         sentence = {};
 
     sentence["character"] = kanji;
@@ -163,6 +234,11 @@ function pluckCharacters(collection) {
   return arr;
 }
 
+function stripFurigana(sentence) {
+  sentence = sentence.replace(/\[[^\].]*\]/g, "");
+  return sentence;
+}
+
 function stripNonKanji(sentence) {
   sentence = sentence.replace(/\[[^\].]*\]/g, "");
   sentence = sentence.replace(/[。、？ー\.,-\/#!$%\^&\*;:{}=\-_`~()]/g, "");
@@ -184,7 +260,10 @@ function createKanjiMaps(kanjis) {
   kanjis.forEach(function(kanji) {
     if (kanji.user_specific !== null) {
       kanjiMaps.kanjiToSrs[kanji.character] = kanji.user_specific.srs;
-      kanjiMaps.srsToKanji[kanji.user_specific.srs].push({"character": kanji.character});
+      kanjiMaps.srsToKanji[kanji.user_specific.srs].push({
+        "character": kanji.character,
+        "meaning": kanji.meaning
+      });
     }
   });
 
